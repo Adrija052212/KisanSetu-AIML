@@ -1,0 +1,501 @@
+ID,State,District,Market,Commodity,Variety,Date,Min_Price,Max_Price,Modal_Price
+1,Karnataka,Bangalore,Yeshwanthpur,Wheat,Lokwan,2026-02-27,2340,2744,2686
+2,Karnataka,Bangalore,Bangalore,Potato,Jyoti,2026-01-24,1614,2032,1872
+3,Karnataka,Bangalore,Yeshwanthpur,Cauliflower,Local,2026-02-26,3188,4090,3472
+4,West Bengal,Hooghly,Chinsurah,Maize,Local,2026-02-09,1845,2635,2626
+5,Maharashtra,Nashik,Lasalgaon,Brinjal,Local,2026-04-02,3209,3861,3827
+6,Maharashtra,Nashik,Nashik,Cauliflower,Local,2026-04-07,1831,2413,2131
+7,Karnataka,Mysore,Mysore,Tomato,Local,2026-06-19,2435,3031,2516
+8,West Bengal,North 24 Parganas,Habra,Wheat,Common,2026-06-12,2918,3590,3084
+9,Maharashtra,Pune,Pune,Wheat,Lokwan,2026-06-05,2813,3287,3086
+10,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-03-11,2075,2945,2299
+11,Karnataka,Mysore,Mysore,Rice,Common,2026-03-22,3334,3908,3401
+12,West Bengal,Nadia,Krishnanagar,Cabbage,Local,2026-06-14,1953,2325,2088
+13,West Bengal,Hooghly,Chinsurah,Green Chilli,Local,2026-05-30,4115,5155,4564
+14,West Bengal,Burdwan,Burdwan,Potato,Jyoti,2026-02-09,2052,2432,2400
+15,Maharashtra,Nashik,Nashik,Brinjal,Round,2026-05-16,2159,2469,2217
+16,Karnataka,Mysore,Nanjangud,Tomato,Hybrid,2026-04-22,2065,2829,2068
+17,Karnataka,Mysore,Mysore,Cauliflower,Local,2026-06-10,2545,3499,3064
+18,Karnataka,Bangalore,Yeshwanthpur,Maize,Yellow,2026-05-19,2736,3036,2901
+19,Maharashtra,Nashik,Lasalgaon,Maize,Local,2026-03-03,1707,2129,1997
+20,West Bengal,North 24 Parganas,Habra,Tomato,Local,2026-02-02,3427,4065,3698
+21,Karnataka,Mysore,Mysore,Cauliflower,Local,2026-03-21,2941,3927,3606
+22,Maharashtra,Pune,Baramati,Tomato,Local,2026-02-27,1826,2298,1836
+23,Karnataka,Bangalore,Yeshwanthpur,Potato,Jyoti,2026-06-11,1452,1868,1486
+24,West Bengal,Nadia,Krishnanagar,Cauliflower,Local,2026-03-13,3419,4157,3971
+25,West Bengal,Burdwan,Burdwan,Cabbage,Local,2026-02-18,1219,1567,1556
+26,Maharashtra,Pune,Baramati,Brinjal,Round,2026-01-14,2695,3663,3356
+27,West Bengal,North 24 Parganas,Habra,Maize,Yellow,2026-03-05,1994,2390,2268
+28,Maharashtra,Nashik,Nashik,Onion,Red,2026-04-29,3035,3411,3261
+29,Karnataka,Bangalore,Yeshwanthpur,Cauliflower,Local,2026-01-24,2533,3003,2741
+30,Maharashtra,Pune,Pune,Brinjal,Local,2026-02-12,2425,2727,2624
+31,Maharashtra,Pune,Baramati,Brinjal,Round,2026-02-09,1963,2413,2074
+32,West Bengal,North 24 Parganas,Habra,Potato,Jyoti,2026-05-30,1810,2366,2353
+33,West Bengal,North 24 Parganas,Barasat,Onion,Local,2026-06-02,2208,2748,2621
+34,West Bengal,Hooghly,Sheoraphuly,Green Chilli,Local,2026-04-18,4945,6439,6102
+35,Karnataka,Mysore,Nanjangud,Rice,Sona Masuri,2026-03-03,2991,3695,3125
+36,Karnataka,Mysore,Nanjangud,Maize,Yellow,2026-01-03,2270,3206,2846
+37,West Bengal,North 24 Parganas,Barasat,Cauliflower,Local,2026-02-03,3044,3414,3169
+38,Maharashtra,Pune,Pune,Cabbage,Local,2026-06-06,2119,2959,2127
+39,Karnataka,Mysore,Mysore,Onion,Red,2026-01-30,2205,3071,2364
+40,Maharashtra,Pune,Pune,Maize,Yellow,2026-06-25,1932,2748,2432
+41,Maharashtra,Nashik,Lasalgaon,Brinjal,Round,2026-01-12,1572,2042,1966
+42,West Bengal,Nadia,Krishnanagar,Cabbage,Local,2026-05-24,1041,1397,1079
+43,Karnataka,Bangalore,Yeshwanthpur,Maize,Yellow,2026-04-21,1901,2221,2058
+44,Maharashtra,Nashik,Nashik,Rice,Common,2026-06-20,2679,3341,3252
+45,Maharashtra,Nashik,Lasalgaon,Onion,Local,2026-04-16,2060,2542,2437
+46,Maharashtra,Pune,Pune,Wheat,Lokwan,2026-06-29,2165,2855,2204
+47,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-03-20,1459,1873,1471
+48,Karnataka,Bangalore,Bangalore,Maize,Local,2026-01-18,2042,2700,2698
+49,Karnataka,Mysore,Nanjangud,Potato,Jyoti,2026-03-08,1484,2080,1755
+50,West Bengal,North 24 Parganas,Habra,Maize,Local,2026-04-22,2638,3056,2835
+51,Karnataka,Bangalore,Bangalore,Potato,Local,2026-01-01,1776,2488,2327
+52,Karnataka,Bangalore,Bangalore,Brinjal,Local,2026-06-20,3197,4173,3835
+53,Maharashtra,Nashik,Nashik,Cauliflower,Local,2026-06-20,3155,3789,3567
+54,Karnataka,Mysore,Mysore,Rice,Sona Masuri,2026-06-20,3080,4072,3846
+55,West Bengal,Nadia,Ranaghat,Cauliflower,Local,2026-03-19,2718,3232,3158
+56,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-06-22,1357,1917,1841
+57,Karnataka,Bangalore,Yeshwanthpur,Wheat,Common,2026-01-24,2704,3772,3185
+58,Karnataka,Mysore,Mysore,Rice,Common,2026-01-07,2619,3169,3105
+59,Karnataka,Bangalore,Bangalore,Brinjal,Local,2026-06-28,2183,2989,2592
+60,West Bengal,Hooghly,Sheoraphuly,Tomato,Hybrid,2026-02-26,2105,2935,2580
+61,West Bengal,Hooghly,Sheoraphuly,Cabbage,Local,2026-04-29,2146,2988,2718
+62,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-05-21,4514,5138,5000
+63,Maharashtra,Pune,Pune,Wheat,Common,2026-06-10,2354,2934,2804
+64,West Bengal,Nadia,Krishnanagar,Wheat,Common,2026-03-23,2888,3740,2970
+65,West Bengal,Hooghly,Sheoraphuly,Brinjal,Local,2026-06-30,2072,2404,2284
+66,Maharashtra,Pune,Baramati,Brinjal,Local,2026-02-22,3140,3870,3538
+67,Karnataka,Bangalore,Bangalore,Cabbage,Local,2026-04-01,1562,2060,1998
+68,Maharashtra,Nashik,Nashik,Rice,Sona Masuri,2026-04-22,3615,3973,3814
+69,Maharashtra,Pune,Pune,Cabbage,Local,2026-06-09,2130,2456,2331
+70,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Local,2026-04-29,2010,2334,2143
+71,Maharashtra,Pune,Pune,Cabbage,Local,2026-03-28,1755,2197,2140
+72,Maharashtra,Pune,Pune,Cabbage,Local,2026-05-19,1067,1545,1181
+73,Karnataka,Bangalore,Yeshwanthpur,Potato,Jyoti,2026-02-21,2299,2619,2617
+74,West Bengal,Hooghly,Sheoraphuly,Cabbage,Local,2026-05-25,1377,1915,1639
+75,Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-01-28,4394,4746,4553
+76,Karnataka,Mysore,Nanjangud,Rice,Common,2026-06-01,3686,4482,3790
+77,Karnataka,Mysore,Mysore,Green Chilli,Local,2026-03-30,4594,5770,5352
+78,West Bengal,Nadia,Krishnanagar,Brinjal,Round,2026-01-28,2352,3022,3002
+79,Maharashtra,Nashik,Nashik,Onion,Red,2026-06-07,3759,5049,4711
+80,Maharashtra,Pune,Baramati,Rice,Common,2026-03-13,3324,4122,4092
+81,Maharashtra,Pune,Baramati,Potato,Local,2026-03-25,1512,2060,1729
+82,Maharashtra,Pune,Baramati,Wheat,Common,2026-05-23,1996,2824,2191
+83,West Bengal,Hooghly,Chinsurah,Cabbage,Local,2026-06-26,1860,2490,2362
+84,Maharashtra,Nashik,Lasalgaon,Wheat,Lokwan,2026-04-14,2834,3382,3147
+85,Karnataka,Mysore,Nanjangud,Cauliflower,Local,2026-04-19,3566,4542,3926
+86,Karnataka,Mysore,Nanjangud,Wheat,Common,2026-03-01,2275,2771,2436
+87,West Bengal,Hooghly,Sheoraphuly,Rice,Sona Masuri,2026-03-12,3320,4694,4542
+88,Maharashtra,Nashik,Lasalgaon,Wheat,Lokwan,2026-04-03,2279,2887,2293
+89,Karnataka,Bangalore,Bangalore,Potato,Jyoti,2026-05-22,1571,2227,1700
+90,Karnataka,Mysore,Mysore,Potato,Local,2026-05-01,1828,2352,2176
+91,West Bengal,North 24 Parganas,Habra,Cabbage,Local,2026-01-17,1745,2295,1820
+92,Karnataka,Bangalore,Yeshwanthpur,Onion,Red,2026-01-22,3006,3426,3291
+93,Maharashtra,Nashik,Nashik,Cabbage,Local,2026-03-18,2036,2774,2348
+94,Karnataka,Bangalore,Yeshwanthpur,Rice,Common,2026-03-09,3919,4385,3999
+95,West Bengal,Hooghly,Sheoraphuly,Onion,Local,2026-04-15,3414,4676,4010
+96,West Bengal,Hooghly,Chinsurah,Wheat,Common,2026-01-19,2834,3372,3104
+97,Karnataka,Bangalore,Bangalore,Tomato,Local,2026-06-15,2124,2696,2269
+98,West Bengal,North 24 Parganas,Barasat,Wheat,Common,2026-04-23,2138,2916,2843
+99,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-04-23,1826,2432,1866
+100,Maharashtra,Pune,Baramati,Potato,Jyoti,2026-02-28,2140,3028,2741
+101,West Bengal,Nadia,Krishnanagar,Onion,Red,2026-05-13,3577,4445,3762
+102,Karnataka,Mysore,Nanjangud,Tomato,Hybrid,2026-03-31,3152,3792,3480
+103,Karnataka,Bangalore,Yeshwanthpur,Maize,Local,2026-06-27,2517,3111,2927
+104,Karnataka,Bangalore,Bangalore,Tomato,Hybrid,2026-03-06,2915,3333,3310
+105,Maharashtra,Nashik,Nashik,Brinjal,Local,2026-02-18,2526,3196,3163
+106,Maharashtra,Pune,Pune,Rice,Sona Masuri,2026-05-21,2771,3365,3219
+107,Karnataka,Mysore,Mysore,Potato,Jyoti,2026-02-10,1627,2209,1641
+108,Karnataka,Mysore,Mysore,Rice,Common,2026-04-29,2559,3521,3411
+109,West Bengal,Burdwan,Katwa,Cauliflower,Local,2026-04-17,3143,4409,3642
+110,Maharashtra,Nashik,Nashik,Rice,Common,2026-01-18,2820,3910,3669
+111,Maharashtra,Pune,Pune,Wheat,Common,2026-05-31,2506,3480,3007
+112,West Bengal,Burdwan,Katwa,Maize,Local,2026-05-22,2569,3255,3035
+113,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-03-01,5562,7450,6403
+114,West Bengal,Nadia,Ranaghat,Brinjal,Round,2026-06-19,2852,3992,3163
+115,Maharashtra,Nashik,Lasalgaon,Cauliflower,Local,2026-01-26,3402,3804,3671
+116,Maharashtra,Nashik,Lasalgaon,Brinjal,Local,2026-01-20,2476,3046,2822
+117,Karnataka,Mysore,Mysore,Maize,Local,2026-03-23,2372,3226,2408
+118,Karnataka,Bangalore,Yeshwanthpur,Wheat,Lokwan,2026-01-24,2644,3044,3033
+119,Karnataka,Bangalore,Bangalore,Onion,Red,2026-01-08,2072,2704,2129
+120,Maharashtra,Pune,Baramati,Brinjal,Local,2026-03-04,2527,3247,3106
+121,Karnataka,Bangalore,Yeshwanthpur,Onion,Local,2026-06-06,3370,4162,3879
+122,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-04-28,1570,1874,1808
+123,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-05-31,1499,2125,1933
+124,Karnataka,Mysore,Nanjangud,Wheat,Lokwan,2026-04-09,2876,3670,2985
+125,West Bengal,Burdwan,Katwa,Green Chilli,Local,2026-06-29,4037,4381,4374
+126,Maharashtra,Pune,Pune,Green Chilli,Local,2026-06-05,5394,6710,5980
+127,West Bengal,Nadia,Krishnanagar,Rice,Sona Masuri,2026-06-23,3860,4440,3959
+128,Karnataka,Bangalore,Bangalore,Cabbage,Local,2026-05-29,1610,2284,1744
+129,West Bengal,Nadia,Ranaghat,Brinjal,Local,2026-02-21,1719,2421,2271
+130,Maharashtra,Pune,Pune,Wheat,Common,2026-03-17,2841,3487,2958
+131,Maharashtra,Nashik,Lasalgaon,Rice,Sona Masuri,2026-05-23,3353,3745,3555
+132,West Bengal,Nadia,Krishnanagar,Cabbage,Local,2026-06-22,2292,2860,2682
+133,Karnataka,Mysore,Mysore,Rice,Sona Masuri,2026-01-07,3344,4792,4015
+134,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-06-16,1857,2215,1928
+135,West Bengal,North 24 Parganas,Habra,Cabbage,Local,2026-01-25,1393,1967,1531
+136,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-05-31,2070,2794,2740
+137,West Bengal,Burdwan,Katwa,Wheat,Lokwan,2026-06-26,2518,3040,2972
+138,Maharashtra,Nashik,Nashik,Tomato,Hybrid,2026-05-20,3088,3450,3291
+139,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-06-19,1479,1789,1504
+140,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-01-18,5465,7331,6600
+141,West Bengal,Hooghly,Sheoraphuly,Maize,Yellow,2026-06-02,1585,2025,2024
+142,West Bengal,Hooghly,Chinsurah,Onion,Local,2026-06-19,2088,2522,2095
+143,Maharashtra,Nashik,Nashik,Potato,Jyoti,2026-03-09,1471,1835,1686
+144,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-04-03,2046,2456,2277
+145,Karnataka,Bangalore,Yeshwanthpur,Cauliflower,Local,2026-04-28,1762,2092,2007
+146,Maharashtra,Pune,Pune,Cabbage,Local,2026-01-19,1133,1597,1444
+147,West Bengal,North 24 Parganas,Barasat,Wheat,Common,2026-04-08,2590,3432,2891
+148,Maharashtra,Pune,Pune,Tomato,Local,2026-04-21,3045,4253,3512
+149,Maharashtra,Pune,Baramati,Brinjal,Round,2026-01-25,2072,2808,2392
+150,Karnataka,Mysore,Nanjangud,Onion,Red,2026-01-18,2380,2766,2427
+151,Maharashtra,Nashik,Nashik,Onion,Local,2026-05-31,3775,5225,4450
+152,Karnataka,Bangalore,Bangalore,Maize,Local,2026-01-14,2080,2698,2440
+153,West Bengal,Hooghly,Sheoraphuly,Cabbage,Local,2026-01-28,1625,2209,2001
+154,West Bengal,Nadia,Krishnanagar,Brinjal,Local,2026-06-05,3279,4125,3308
+155,West Bengal,Nadia,Ranaghat,Maize,Local,2026-01-02,1799,2543,1945
+156,Karnataka,Mysore,Mysore,Onion,Local,2026-01-24,4002,4742,4387
+157,Maharashtra,Pune,Baramati,Onion,Red,2026-03-21,2981,4075,3154
+158,West Bengal,Hooghly,Sheoraphuly,Green Chilli,Local,2026-06-22,3045,3623,3498
+159,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-04-17,3748,4488,4272
+160,West Bengal,Nadia,Ranaghat,Tomato,Hybrid,2026-06-23,3328,4258,3374
+161,West Bengal,Burdwan,Burdwan,Potato,Jyoti,2026-03-19,2310,2826,2450
+162,Maharashtra,Pune,Baramati,Tomato,Local,2026-05-08,3324,3802,3390
+163,Maharashtra,Nashik,Nashik,Tomato,Hybrid,2026-01-11,3427,3745,3662
+164,West Bengal,Nadia,Ranaghat,Green Chilli,Local,2026-06-13,4264,5156,4381
+165,Maharashtra,Nashik,Nashik,Onion,Red,2026-06-26,3442,3922,3665
+166,West Bengal,Hooghly,Chinsurah,Green Chilli,Local,2026-05-15,2970,3674,3287
+167,Karnataka,Mysore,Mysore,Maize,Yellow,2026-01-20,2371,3319,2487
+168,Karnataka,Bangalore,Bangalore,Maize,Yellow,2026-03-02,1823,2197,1954
+169,West Bengal,Hooghly,Sheoraphuly,Tomato,Local,2026-06-10,3198,4448,4352
+170,Karnataka,Mysore,Nanjangud,Maize,Yellow,2026-04-23,1669,2209,2121
+171,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-04-01,4853,5303,5011
+172,Maharashtra,Pune,Pune,Potato,Local,2026-03-15,1505,1851,1819
+173,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-04-26,6188,7258,6846
+174,Karnataka,Mysore,Mysore,Potato,Local,2026-01-27,2105,2755,2191
+175,Karnataka,Bangalore,Yeshwanthpur,Rice,Sona Masuri,2026-04-23,3188,4558,4436
+176,West Bengal,Nadia,Ranaghat,Wheat,Common,2026-04-15,2870,3516,3482
+177,West Bengal,Nadia,Krishnanagar,Maize,Yellow,2026-05-23,2296,2886,2554
+178,Karnataka,Bangalore,Bangalore,Tomato,Local,2026-03-31,2585,3555,3300
+179,Karnataka,Mysore,Mysore,Green Chilli,Local,2026-03-21,4754,5824,5426
+180,West Bengal,North 24 Parganas,Habra,Cauliflower,Local,2026-01-05,2977,3593,3161
+181,West Bengal,Nadia,Ranaghat,Rice,Common,2026-02-05,2928,3306,3079
+182,West Bengal,North 24 Parganas,Habra,Green Chilli,Local,2026-06-02,4236,4850,4402
+183,West Bengal,Hooghly,Chinsurah,Potato,Local,2026-04-04,2021,2563,2475
+184,Karnataka,Mysore,Nanjangud,Rice,Common,2026-03-21,3412,4108,3788
+185,Karnataka,Mysore,Nanjangud,Wheat,Common,2026-05-09,2576,3304,2741
+186,West Bengal,Hooghly,Chinsurah,Potato,Local,2026-04-06,1778,2556,1883
+187,Karnataka,Bangalore,Bangalore,Tomato,Local,2026-03-11,3027,4253,4078
+188,West Bengal,Burdwan,Burdwan,Rice,Sona Masuri,2026-03-31,2492,3216,2546
+189,Maharashtra,Pune,Pune,Brinjal,Local,2026-04-06,2095,2423,2258
+190,West Bengal,Nadia,Krishnanagar,Onion,Local,2026-03-15,3843,4427,4323
+191,Maharashtra,Nashik,Lasalgaon,Potato,Local,2026-02-25,2229,2681,2509
+192,Karnataka,Mysore,Mysore,Wheat,Lokwan,2026-03-19,2350,2698,2472
+193,Maharashtra,Pune,Pune,Tomato,Hybrid,2026-06-02,3829,4161,4152
+194,Karnataka,Bangalore,Yeshwanthpur,Wheat,Common,2026-01-01,2699,3359,2945
+195,Karnataka,Mysore,Mysore,Tomato,Hybrid,2026-01-18,3247,4661,4286
+196,Karnataka,Bangalore,Bangalore,Cabbage,Local,2026-06-12,1747,2237,1876
+197,Karnataka,Bangalore,Bangalore,Tomato,Hybrid,2026-03-03,1877,2571,2472
+198,Karnataka,Mysore,Mysore,Potato,Local,2026-05-20,1632,2260,1811
+199,Karnataka,Mysore,Nanjangud,Onion,Local,2026-01-17,3887,4261,4037
+200,West Bengal,North 24 Parganas,Barasat,Potato,Local,2026-03-21,1876,2378,2293
+201,Karnataka,Mysore,Nanjangud,Potato,Jyoti,2026-03-15,1616,2314,1664
+202,Karnataka,Mysore,Nanjangud,Tomato,Hybrid,2026-04-22,2908,3968,3808
+203,Maharashtra,Pune,Pune,Cabbage,Local,2026-04-05,1977,2549,2061
+204,Karnataka,Mysore,Mysore,Brinjal,Local,2026-05-20,2087,2715,2192
+205,West Bengal,Nadia,Ranaghat,Wheat,Common,2026-06-04,2766,3502,2936
+206,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-04-01,2087,2831,2368
+207,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Round,2026-05-12,2907,3973,3234
+208,West Bengal,Hooghly,Chinsurah,Potato,Jyoti,2026-01-18,1526,2156,1901
+209,Maharashtra,Pune,Pune,Green Chilli,Local,2026-06-23,4313,5371,5074
+210,Maharashtra,Nashik,Lasalgaon,Cauliflower,Local,2026-04-12,2605,3569,2890
+211,West Bengal,North 24 Parganas,Barasat,Onion,Red,2026-05-13,3515,4055,3783
+212,Maharashtra,Pune,Pune,Green Chilli,Local,2026-06-27,5598,7908,6417
+213,West Bengal,Hooghly,Sheoraphuly,Cabbage,Local,2026-04-24,1148,1610,1489
+214,Maharashtra,Nashik,Nashik,Wheat,Lokwan,2026-06-29,2814,3292,3220
+215,Maharashtra,Nashik,Lasalgaon,Rice,Common,2026-03-02,3635,3987,3819
+216,Karnataka,Mysore,Nanjangud,Cauliflower,Local,2026-06-06,1987,2319,2145
+217,Maharashtra,Pune,Baramati,Brinjal,Local,2026-02-02,3317,4265,3974
+218,West Bengal,Burdwan,Katwa,Cauliflower,Local,2026-02-02,3722,4394,3854
+219,Maharashtra,Nashik,Lasalgaon,Cauliflower,Local,2026-03-19,2242,2706,2407
+220,Karnataka,Bangalore,Bangalore,Cauliflower,Local,2026-01-21,2576,3076,2901
+221,Karnataka,Mysore,Mysore,Wheat,Lokwan,2026-05-09,2820,3292,3123
+222,Karnataka,Bangalore,Yeshwanthpur,Green Chilli,Local,2026-05-25,3004,3332,3045
+223,West Bengal,Nadia,Krishnanagar,Green Chilli,Local,2026-06-08,5436,5798,5690
+224,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-06-25,1805,2257,2037
+225,West Bengal,North 24 Parganas,Barasat,Cabbage,Local,2026-05-04,1949,2353,2123
+226,Karnataka,Bangalore,Bangalore,Maize,Local,2026-04-13,1723,2411,2102
+227,Karnataka,Bangalore,Bangalore,Rice,Sona Masuri,2026-02-01,2967,3727,3220
+228,West Bengal,North 24 Parganas,Barasat,Wheat,Common,2026-06-07,2551,3105,2714
+229,Maharashtra,Pune,Pune,Onion,Red,2026-05-12,3452,4772,4083
+230,Maharashtra,Nashik,Lasalgaon,Brinjal,Round,2026-03-03,1941,2539,2302
+231,West Bengal,North 24 Parganas,Habra,Cabbage,Local,2026-03-15,2145,2453,2200
+232,Maharashtra,Nashik,Nashik,Maize,Local,2026-04-04,1640,2144,1666
+233,Karnataka,Bangalore,Bangalore,Cauliflower,Local,2026-01-19,2974,3790,3435
+234,Karnataka,Mysore,Mysore,Onion,Local,2026-04-11,3231,4225,3802
+235,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-05-09,2991,3337,3010
+236,West Bengal,Nadia,Ranaghat,Cauliflower,Local,2026-02-08,3618,4204,3953
+237,Karnataka,Mysore,Mysore,Brinjal,Round,2026-06-01,2079,2897,2600
+238,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-04-05,1556,2200,1668
+239,Maharashtra,Pune,Pune,Green Chilli,Local,2026-03-09,6345,7577,6450
+240,Karnataka,Mysore,Mysore,Cauliflower,Local,2026-02-07,2626,2958,2919
+241,Karnataka,Bangalore,Yeshwanthpur,Potato,Local,2026-03-22,1840,2216,2051
+242,Karnataka,Bangalore,Bangalore,Cauliflower,Local,2026-01-16,1950,2780,2162
+243,Karnataka,Mysore,Nanjangud,Cauliflower,Local,2026-03-22,2124,2894,2669
+244,Maharashtra,Pune,Baramati,Green Chilli,Local,2026-02-19,6267,7575,6838
+245,Karnataka,Mysore,Mysore,Wheat,Common,2026-06-30,2212,3012,2536
+246,Maharashtra,Pune,Baramati,Wheat,Lokwan,2026-05-27,2664,3520,3052
+247,Maharashtra,Pune,Pune,Wheat,Lokwan,2026-03-15,2863,3893,3024
+248,Maharashtra,Pune,Baramati,Cabbage,Local,2026-02-21,2015,2591,2590
+249,Karnataka,Mysore,Mysore,Tomato,Local,2026-03-04,1686,2328,2229
+250,West Bengal,Hooghly,Sheoraphuly,Tomato,Hybrid,2026-03-26,3482,3986,3830
+251,West Bengal,North 24 Parganas,Barasat,Brinjal,Round,2026-05-03,2880,3384,3267
+252,Maharashtra,Pune,Baramati,Potato,Jyoti,2026-06-16,1978,2396,2251
+253,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Local,2026-01-10,3159,3865,3666
+254,West Bengal,Nadia,Krishnanagar,Potato,Local,2026-05-26,2040,2394,2211
+255,Maharashtra,Pune,Baramati,Onion,Red,2026-03-11,2782,3196,2951
+256,West Bengal,Burdwan,Katwa,Onion,Local,2026-03-28,2968,3848,3658
+257,West Bengal,Hooghly,Chinsurah,Brinjal,Round,2026-01-23,2422,2818,2516
+258,West Bengal,Burdwan,Katwa,Rice,Common,2026-03-08,3315,3855,3772
+259,Maharashtra,Pune,Baramati,Green Chilli,Local,2026-03-08,5159,6195,5642
+260,West Bengal,North 24 Parganas,Habra,Wheat,Lokwan,2026-04-14,2695,3509,3415
+261,Maharashtra,Nashik,Nashik,Maize,Yellow,2026-02-26,1801,2345,1957
+262,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-05-18,2418,2970,2501
+263,Karnataka,Mysore,Nanjangud,Tomato,Local,2026-01-16,3376,4710,3790
+264,Karnataka,Bangalore,Yeshwanthpur,Maize,Local,2026-01-30,1887,2553,2484
+265,Maharashtra,Nashik,Nashik,Potato,Local,2026-02-03,1869,2381,2336
+266,Karnataka,Bangalore,Bangalore,Wheat,Lokwan,2026-04-12,2509,2811,2620
+267,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Round,2026-06-29,1642,2218,1703
+268,West Bengal,Burdwan,Burdwan,Wheat,Common,2026-02-16,2968,3406,3360
+269,Karnataka,Mysore,Nanjangud,Brinjal,Round,2026-04-07,2378,2760,2727
+270,Karnataka,Bangalore,Bangalore,Tomato,Local,2026-05-18,2989,3829,3119
+271,Karnataka,Bangalore,Yeshwanthpur,Potato,Local,2026-04-29,1922,2656,2466
+272,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-02-09,1566,1962,1937
+273,West Bengal,North 24 Parganas,Habra,Green Chilli,Local,2026-03-03,3626,4062,3677
+274,Karnataka,Bangalore,Bangalore,Green Chilli,Local,2026-03-04,5838,6228,6043
+275,Maharashtra,Nashik,Lasalgaon,Potato,Jyoti,2026-05-09,1687,2105,2104
+276,Karnataka,Mysore,Nanjangud,Rice,Sona Masuri,2026-02-06,3469,4835,3921
+277,Maharashtra,Pune,Baramati,Potato,Jyoti,2026-06-10,1927,2663,2496
+278,Maharashtra,Nashik,Nashik,Brinjal,Round,2026-06-28,2293,3011,2445
+279,Maharashtra,Pune,Pune,Cauliflower,Local,2026-03-03,2420,3026,2567
+280,Maharashtra,Nashik,Nashik,Brinjal,Local,2026-04-10,2017,2577,2225
+281,Maharashtra,Nashik,Nashik,Maize,Yellow,2026-05-18,2027,2353,2164
+282,Maharashtra,Nashik,Lasalgaon,Rice,Common,2026-05-03,2907,3547,3217
+283,West Bengal,Hooghly,Sheoraphuly,Tomato,Hybrid,2026-03-04,2284,2990,2529
+284,Karnataka,Mysore,Nanjangud,Brinjal,Round,2026-05-17,2795,3461,3110
+285,Maharashtra,Pune,Baramati,Cabbage,Local,2026-05-01,1653,2057,1842
+286,Maharashtra,Pune,Pune,Green Chilli,Local,2026-02-07,2783,3349,3349
+287,Karnataka,Mysore,Nanjangud,Onion,Local,2026-03-26,2798,3486,3381
+288,West Bengal,Burdwan,Katwa,Wheat,Common,2026-06-14,2756,3558,3227
+289,West Bengal,Nadia,Krishnanagar,Onion,Red,2026-02-17,4210,4630,4478
+290,West Bengal,North 24 Parganas,Barasat,Potato,Local,2026-02-05,2194,2730,2263
+291,Karnataka,Bangalore,Yeshwanthpur,Rice,Sona Masuri,2026-04-06,2457,3389,3110
+292,Karnataka,Mysore,Nanjangud,Potato,Jyoti,2026-05-17,1909,2419,1915
+293,West Bengal,Nadia,Ranaghat,Potato,Local,2026-02-15,1535,1883,1803
+294,West Bengal,Hooghly,Sheoraphuly,Green Chilli,Local,2026-04-01,3538,4650,3699
+295,Maharashtra,Pune,Baramati,Green Chilli,Local,2026-06-28,3468,4382,4168
+296,West Bengal,North 24 Parganas,Barasat,Brinjal,Round,2026-04-07,2538,3324,2595
+297,Karnataka,Bangalore,Yeshwanthpur,Tomato,Hybrid,2026-04-22,2717,3595,3595
+298,West Bengal,North 24 Parganas,Barasat,Rice,Sona Masuri,2026-03-11,2707,3083,3057
+299,Maharashtra,Nashik,Lasalgaon,Maize,Yellow,2026-02-23,1753,2437,2160
+300,West Bengal,Nadia,Krishnanagar,Green Chilli,Local,2026-05-26,5399,7437,6195
+301,Karnataka,Mysore,Nanjangud,Onion,Local,2026-05-09,3439,3793,3489
+302,Maharashtra,Nashik,Lasalgaon,Maize,Local,2026-03-25,1548,2172,1827
+303,Maharashtra,Pune,Pune,Maize,Local,2026-04-21,1856,2504,2455
+304,Karnataka,Mysore,Mysore,Green Chilli,Local,2026-03-05,5695,6145,5737
+305,Maharashtra,Nashik,Nashik,Onion,Red,2026-03-23,3418,3936,3511
+306,West Bengal,Nadia,Ranaghat,Maize,Local,2026-01-27,1899,2243,1994
+307,Maharashtra,Pune,Baramati,Tomato,Local,2026-01-23,2816,3682,2911
+308,Karnataka,Mysore,Nanjangud,Potato,Local,2026-04-16,1648,2346,1734
+309,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Local,2026-02-05,2046,2654,2320
+310,Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-03-12,3468,4380,3963
+311,West Bengal,Nadia,Ranaghat,Rice,Sona Masuri,2026-06-02,3712,4412,4180
+312,West Bengal,Hooghly,Chinsurah,Potato,Local,2026-03-27,2117,2805,2454
+313,Maharashtra,Pune,Baramati,Green Chilli,Local,2026-03-18,3546,5080,4969
+314,West Bengal,Burdwan,Katwa,Onion,Red,2026-03-23,2867,3919,3872
+315,Karnataka,Bangalore,Bangalore,Brinjal,Round,2026-04-11,2339,2755,2627
+316,West Bengal,Hooghly,Sheoraphuly,Cabbage,Local,2026-04-23,1629,1963,1838
+317,Karnataka,Mysore,Mysore,Wheat,Lokwan,2026-03-06,2846,3302,3212
+318,Maharashtra,Pune,Pune,Cabbage,Local,2026-05-30,1734,2306,2252
+319,Karnataka,Mysore,Mysore,Maize,Yellow,2026-01-28,1977,2639,2147
+320,Karnataka,Bangalore,Bangalore,Maize,Local,2026-01-28,1646,1996,1778
+321,West Bengal,Hooghly,Chinsurah,Maize,Local,2026-04-29,2597,3051,2773
+322,West Bengal,Burdwan,Burdwan,Wheat,Common,2026-01-22,2296,2740,2474
+323,Maharashtra,Pune,Baramati,Rice,Sona Masuri,2026-03-31,3526,4024,3750
+324,Karnataka,Mysore,Nanjangud,Tomato,Hybrid,2026-01-12,2110,2432,2285
+325,Karnataka,Bangalore,Yeshwanthpur,Rice,Common,2026-05-22,2808,3446,3381
+326,Maharashtra,Pune,Pune,Brinjal,Local,2026-02-17,2625,3597,3067
+327,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-04-10,1005,1413,1110
+328,Maharashtra,Nashik,Lasalgaon,Cauliflower,Local,2026-04-04,2885,3385,3119
+329,West Bengal,Nadia,Ranaghat,Cauliflower,Local,2026-06-02,2929,3853,3330
+330,Karnataka,Bangalore,Bangalore,Maize,Local,2026-06-08,1795,2511,2484
+331,Karnataka,Mysore,Mysore,Onion,Red,2026-01-31,2871,3483,2990
+332,West Bengal,Nadia,Krishnanagar,Cauliflower,Local,2026-04-18,2018,2710,2451
+333,West Bengal,Burdwan,Burdwan,Cauliflower,Local,2026-05-06,2762,3204,2857
+334,Maharashtra,Pune,Pune,Maize,Yellow,2026-05-05,1880,2278,2076
+335,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-04-24,2008,2392,2050
+336,Karnataka,Bangalore,Yeshwanthpur,Wheat,Lokwan,2026-03-12,2205,3055,2500
+337,West Bengal,Burdwan,Katwa,Cauliflower,Local,2026-05-27,1980,2554,2536
+338,Maharashtra,Nashik,Nashik,Cauliflower,Local,2026-04-19,1881,2557,2550
+339,West Bengal,Nadia,Krishnanagar,Cabbage,Local,2026-03-31,1116,1640,1236
+340,West Bengal,Hooghly,Chinsurah,Green Chilli,Local,2026-02-12,5231,5815,5442
+341,West Bengal,North 24 Parganas,Habra,Cauliflower,Local,2026-06-02,3684,4328,4015
+342,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-05-12,6342,7032,6480
+343,Maharashtra,Nashik,Nashik,Onion,Local,2026-03-05,2485,3113,2738
+344,Karnataka,Mysore,Nanjangud,Onion,Red,2026-06-10,3362,4430,4287
+345,West Bengal,North 24 Parganas,Habra,Cauliflower,Local,2026-06-27,2929,3693,3428
+346,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-01-17,1941,2647,2164
+347,Maharashtra,Nashik,Nashik,Wheat,Common,2026-03-14,2315,3175,2906
+348,West Bengal,Burdwan,Katwa,Potato,Jyoti,2026-01-26,1891,2591,2361
+349,West Bengal,North 24 Parganas,Barasat,Cabbage,Local,2026-01-01,1875,2277,2227
+350,West Bengal,Nadia,Krishnanagar,Wheat,Lokwan,2026-06-17,2491,3047,2575
+351,Maharashtra,Nashik,Lasalgaon,Brinjal,Round,2026-06-29,3077,3615,3516
+352,Karnataka,Bangalore,Yeshwanthpur,Potato,Jyoti,2026-05-03,1496,1862,1799
+353,West Bengal,Burdwan,Burdwan,Potato,Local,2026-01-31,2114,2846,2824
+354,West Bengal,Burdwan,Burdwan,Rice,Sona Masuri,2026-01-23,2807,3211,2967
+355,Maharashtra,Pune,Pune,Brinjal,Local,2026-06-14,2963,3409,2998
+356,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-02-24,2259,2713,2469
+357,Karnataka,Mysore,Mysore,Tomato,Local,2026-02-05,1958,2650,2317
+358,Maharashtra,Pune,Pune,Rice,Sona Masuri,2026-06-15,2695,3249,2986
+359,Karnataka,Bangalore,Bangalore,Rice,Common,2026-04-11,2925,3885,2980
+360,West Bengal,Burdwan,Katwa,Tomato,Local,2026-05-08,1805,2375,1817
+361,Maharashtra,Pune,Pune,Brinjal,Round,2026-04-04,2419,3417,2595
+362,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-01-04,3703,4443,3743
+363,West Bengal,Burdwan,Katwa,Cauliflower,Local,2026-04-19,3255,3639,3582
+364,Karnataka,Bangalore,Bangalore,Tomato,Hybrid,2026-01-21,3536,4252,3695
+365,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-03-21,5264,6458,5752
+366,West Bengal,Hooghly,Sheoraphuly,Brinjal,Local,2026-04-27,2592,3514,2648
+367,Maharashtra,Nashik,Lasalgaon,Potato,Jyoti,2026-06-29,1420,1802,1674
+368,Maharashtra,Pune,Pune,Maize,Yellow,2026-03-10,1694,2388,1724
+369,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-03-09,3933,4389,4187
+370,Maharashtra,Pune,Pune,Cabbage,Local,2026-04-05,1307,1737,1702
+371,West Bengal,North 24 Parganas,Barasat,Cauliflower,Local,2026-01-12,1638,2062,1661
+372,Maharashtra,Pune,Baramati,Onion,Local,2026-01-10,3885,5043,4344
+373,Maharashtra,Nashik,Nashik,Maize,Local,2026-01-20,2630,3310,2752
+374,Karnataka,Bangalore,Yeshwanthpur,Rice,Common,2026-04-13,2553,3329,2842
+375,Maharashtra,Pune,Pune,Cauliflower,Local,2026-01-03,3059,3563,3208
+376,Karnataka,Mysore,Mysore,Cabbage,Local,2026-06-01,1863,2557,2063
+377,Karnataka,Bangalore,Yeshwanthpur,Potato,Local,2026-01-07,1550,2126,1904
+378,Karnataka,Bangalore,Bangalore,Potato,Local,2026-03-20,1504,1908,1775
+379,West Bengal,Burdwan,Katwa,Potato,Jyoti,2026-03-13,1534,1856,1652
+380,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-05-29,1116,1674,1252
+381,Karnataka,Mysore,Mysore,Green Chilli,Local,2026-04-22,5430,5996,5672
+382,Maharashtra,Pune,Baramati,Brinjal,Round,2026-03-23,2438,3016,2677
+383,West Bengal,Hooghly,Sheoraphuly,Green Chilli,Local,2026-02-09,3198,3666,3428
+384,Maharashtra,Pune,Baramati,Tomato,Hybrid,2026-02-23,3344,3958,3818
+385,Maharashtra,Nashik,Lasalgaon,Onion,Red,2026-06-30,4480,4862,4590
+386,Maharashtra,Nashik,Lasalgaon,Rice,Sona Masuri,2026-04-12,3651,4051,3997
+387,Maharashtra,Pune,Pune,Potato,Local,2026-04-26,1828,2510,2391
+388,West Bengal,North 24 Parganas,Habra,Tomato,Local,2026-02-01,1683,2013,1796
+389,West Bengal,Hooghly,Chinsurah,Maize,Yellow,2026-05-30,2718,3282,2794
+390,West Bengal,North 24 Parganas,Barasat,Cabbage,Local,2026-01-24,1698,2060,1719
+391,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-04-12,4852,5212,5047
+392,Karnataka,Mysore,Mysore,Maize,Yellow,2026-02-17,2070,2656,2526
+393,West Bengal,North 24 Parganas,Barasat,Wheat,Common,2026-04-16,2872,3734,3362
+394,West Bengal,North 24 Parganas,Habra,Brinjal,Local,2026-04-18,1894,2522,2432
+395,West Bengal,North 24 Parganas,Habra,Maize,Local,2026-05-20,2466,3118,3045
+396,Karnataka,Mysore,Nanjangud,Wheat,Lokwan,2026-01-07,2271,3181,2495
+397,West Bengal,Nadia,Krishnanagar,Cabbage,Local,2026-05-30,1486,1866,1537
+398,West Bengal,Hooghly,Chinsurah,Cauliflower,Local,2026-02-26,3611,4705,4337
+399,West Bengal,Hooghly,Sheoraphuly,Green Chilli,Local,2026-06-28,3714,5224,3771
+400,Karnataka,Mysore,Mysore,Green Chilli,Local,2026-05-07,4754,5686,4933
+401,Maharashtra,Nashik,Lasalgaon,Potato,Jyoti,2026-06-04,1669,1979,1938
+402,Maharashtra,Nashik,Nashik,Green Chilli,Local,2026-02-03,4064,4726,4395
+403,West Bengal,North 24 Parganas,Barasat,Green Chilli,Local,2026-01-29,5779,7155,6526
+404,West Bengal,Nadia,Ranaghat,Green Chilli,Local,2026-03-28,3756,4716,3895
+405,West Bengal,Burdwan,Katwa,Maize,Yellow,2026-05-24,2266,2794,2445
+406,Maharashtra,Pune,Baramati,Onion,Local,2026-01-01,3996,5096,4062
+407,West Bengal,Nadia,Krishnanagar,Green Chilli,Local,2026-05-08,3257,3895,3336
+408,West Bengal,Nadia,Ranaghat,Onion,Local,2026-06-21,3197,3953,3208
+409,Maharashtra,Nashik,Lasalgaon,Tomato,Hybrid,2026-03-07,1908,2576,1909
+410,West Bengal,Burdwan,Katwa,Brinjal,Local,2026-04-16,2466,3152,2825
+411,Karnataka,Mysore,Mysore,Cabbage,Local,2026-02-11,1956,2292,1973
+412,Maharashtra,Nashik,Nashik,Wheat,Lokwan,2026-01-19,2513,2987,2967
+413,Maharashtra,Nashik,Lasalgaon,Cauliflower,Local,2026-03-28,3596,3958,3816
+414,Karnataka,Bangalore,Bangalore,Onion,Local,2026-01-26,3301,3811,3799
+415,West Bengal,Burdwan,Katwa,Wheat,Common,2026-03-02,2323,2673,2524
+416,Karnataka,Mysore,Mysore,Potato,Local,2026-01-01,1865,2209,2015
+417,Karnataka,Mysore,Mysore,Tomato,Local,2026-02-22,2200,2798,2283
+418,Maharashtra,Nashik,Nashik,Brinjal,Round,2026-05-06,3144,4120,3415
+419,West Bengal,Burdwan,Burdwan,Maize,Local,2026-04-05,1918,2446,1963
+420,Maharashtra,Pune,Baramati,Wheat,Lokwan,2026-03-10,2796,3158,2873
+421,Karnataka,Bangalore,Yeshwanthpur,Maize,Local,2026-05-31,2084,2446,2282
+422,Karnataka,Mysore,Nanjangud,Green Chilli,Local,2026-05-02,3994,4454,4196
+423,Karnataka,Bangalore,Yeshwanthpur,Tomato,Hybrid,2026-02-14,2226,2742,2423
+424,West Bengal,North 24 Parganas,Habra,Tomato,Hybrid,2026-02-21,2123,2687,2450
+425,Karnataka,Bangalore,Yeshwanthpur,Brinjal,Round,2026-05-22,2176,2758,2708
+426,Maharashtra,Nashik,Nashik,Tomato,Hybrid,2026-02-08,2206,2608,2260
+427,Karnataka,Bangalore,Bangalore,Cauliflower,Local,2026-04-16,2535,3227,3205
+428,Maharashtra,Pune,Pune,Onion,Red,2026-04-14,2323,3255,2946
+429,Karnataka,Mysore,Mysore,Brinjal,Round,2026-06-26,2111,2461,2354
+430,Maharashtra,Pune,Pune,Maize,Local,2026-03-21,1973,2775,2685
+431,Karnataka,Bangalore,Yeshwanthpur,Onion,Red,2026-04-24,3227,3801,3653
+432,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-04-15,1848,2536,2376
+433,Maharashtra,Nashik,Lasalgaon,Tomato,Hybrid,2026-05-10,3233,3671,3632
+434,Karnataka,Bangalore,Yeshwanthpur,Rice,Common,2026-01-15,3144,3476,3377
+435,West Bengal,Nadia,Krishnanagar,Wheat,Common,2026-04-29,2564,3270,3214
+436,West Bengal,North 24 Parganas,Barasat,Maize,Local,2026-06-02,2473,2953,2918
+437,Maharashtra,Pune,Baramati,Onion,Red,2026-06-26,2275,2865,2303
+438,Maharashtra,Nashik,Lasalgaon,Green Chilli,Local,2026-02-26,5271,6031,5964
+439,West Bengal,Nadia,Ranaghat,Cauliflower,Local,2026-06-24,1565,2107,1700
+440,Karnataka,Bangalore,Yeshwanthpur,Rice,Sona Masuri,2026-06-05,2911,3939,3474
+441,Maharashtra,Pune,Baramati,Cabbage,Local,2026-02-25,1928,2382,2274
+442,Karnataka,Mysore,Mysore,Potato,Local,2026-05-24,1968,2556,2273
+443,Karnataka,Bangalore,Bangalore,Tomato,Hybrid,2026-03-12,2840,3422,3107
+444,Karnataka,Mysore,Mysore,Onion,Local,2026-01-15,4094,5220,4748
+445,Karnataka,Bangalore,Yeshwanthpur,Cabbage,Local,2026-03-08,1804,2310,2002
+446,Karnataka,Bangalore,Yeshwanthpur,Maize,Yellow,2026-06-25,2418,3370,3221
+447,Maharashtra,Pune,Baramati,Onion,Local,2026-03-17,2208,2990,2339
+448,Karnataka,Mysore,Mysore,Maize,Yellow,2026-02-26,2263,2791,2577
+449,Maharashtra,Pune,Baramati,Wheat,Common,2026-04-29,3061,3481,3301
+450,West Bengal,North 24 Parganas,Habra,Rice,Common,2026-06-24,3160,4002,3465
+451,Maharashtra,Nashik,Lasalgaon,Onion,Local,2026-03-29,3258,4494,3551
+452,Maharashtra,Nashik,Lasalgaon,Cabbage,Local,2026-06-11,1332,1792,1656
+453,West Bengal,North 24 Parganas,Habra,Wheat,Lokwan,2026-02-13,2759,3221,3009
+454,West Bengal,Hooghly,Chinsurah,Brinjal,Round,2026-04-20,3138,4414,3923
+455,West Bengal,North 24 Parganas,Barasat,Maize,Yellow,2026-03-24,2640,3134,2649
+456,Karnataka,Bangalore,Yeshwanthpur,Rice,Sona Masuri,2026-03-21,2862,3266,3058
+457,Karnataka,Mysore,Mysore,Tomato,Local,2026-03-18,2608,3374,3353
+458,Karnataka,Mysore,Nanjangud,Onion,Red,2026-05-06,3137,4205,3522
+459,West Bengal,Burdwan,Burdwan,Rice,Common,2026-02-03,2707,3757,2751
+460,Karnataka,Bangalore,Yeshwanthpur,Maize,Yellow,2026-04-07,2149,2497,2453
+461,West Bengal,North 24 Parganas,Barasat,Potato,Jyoti,2026-04-17,1807,2301,1870
+462,Karnataka,Mysore,Nanjangud,Onion,Local,2026-06-27,4622,4940,4776
+463,Maharashtra,Nashik,Nashik,Green Chilli,Local,2026-04-18,5332,7472,5761
+464,Karnataka,Bangalore,Bangalore,Tomato,Local,2026-05-08,2152,3074,2356
+465,Maharashtra,Nashik,Nashik,Brinjal,Round,2026-02-11,1590,2170,2098
+466,West Bengal,Burdwan,Katwa,Rice,Common,2026-01-04,3934,4416,4398
+467,West Bengal,Burdwan,Burdwan,Tomato,Local,2026-01-26,2369,3327,2605
+468,Maharashtra,Pune,Baramati,Cabbage,Local,2026-01-26,1397,1717,1545
+469,Maharashtra,Pune,Baramati,Tomato,Local,2026-01-12,1654,2024,1993
+470,Karnataka,Bangalore,Bangalore,Maize,Local,2026-06-09,2152,2546,2342
+471,Maharashtra,Nashik,Lasalgaon,Brinjal,Round,2026-04-27,2009,2703,2498
+472,Maharashtra,Nashik,Lasalgaon,Onion,Local,2026-02-10,2261,2987,2865
+473,Maharashtra,Pune,Pune,Green Chilli,Local,2026-04-02,5325,5683,5675
+474,Karnataka,Bangalore,Bangalore,Cabbage,Local,2026-04-16,1941,2263,1973
+475,Maharashtra,Pune,Pune,Cauliflower,Local,2026-06-21,2770,3600,3305
+476,Karnataka,Bangalore,Bangalore,Rice,Sona Masuri,2026-03-30,3615,4703,3919
+477,Karnataka,Bangalore,Yeshwanthpur,Onion,Red,2026-05-07,2689,3065,2940
+478,Maharashtra,Nashik,Nashik,Wheat,Lokwan,2026-05-10,2197,3059,2855
+479,Maharashtra,Pune,Pune,Tomato,Hybrid,2026-04-24,3539,4755,3719
+480,Maharashtra,Pune,Baramati,Tomato,Hybrid,2026-06-17,1696,2048,1902
+481,Maharashtra,Nashik,Lasalgaon,Tomato,Hybrid,2026-05-11,3742,4464,4412
+482,Karnataka,Mysore,Nanjangud,Maize,Yellow,2026-02-27,2411,3049,2984
+483,Karnataka,Mysore,Nanjangud,Cabbage,Local,2026-01-25,2286,2812,2288
+484,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-06-29,2074,2396,2158
+485,Maharashtra,Nashik,Nashik,Tomato,Hybrid,2026-06-06,2356,2848,2417
+486,Maharashtra,Nashik,Nashik,Rice,Sona Masuri,2026-01-28,3475,3821,3799
+487,Karnataka,Bangalore,Bangalore,Cabbage,Local,2026-05-08,923,1493,972
+488,Karnataka,Mysore,Nanjangud,Cauliflower,Local,2026-06-27,3842,4496,3973
+489,West Bengal,Burdwan,Katwa,Cauliflower,Local,2026-04-18,2526,3106,2933
+490,Maharashtra,Pune,Baramati,Onion,Local,2026-04-16,3993,5341,4605
+491,Karnataka,Mysore,Mysore,Rice,Common,2026-06-09,2894,3896,3247
+492,Karnataka,Bangalore,Yeshwanthpur,Cauliflower,Local,2026-01-30,2805,3679,3296
+493,Karnataka,Mysore,Nanjangud,Brinjal,Local,2026-05-14,1862,2174,2057
+494,West Bengal,North 24 Parganas,Barasat,Rice,Sona Masuri,2026-02-11,2887,3885,3143
+495,West Bengal,North 24 Parganas,Habra,Rice,Common,2026-04-02,3472,3980,3787
+496,Karnataka,Bangalore,Bangalore,Rice,Sona Masuri,2026-06-27,3962,4358,4157
+497,Maharashtra,Pune,Baramati,Cauliflower,Local,2026-01-04,2576,3082,2893
+498,Maharashtra,Nashik,Nashik,Green Chilli,Local,2026-02-19,3595,4813,3958
+499,Karnataka,Bangalore,Yeshwanthpur,Onion,Local,2026-04-07,1997,2735,2282
+500,Karnataka,Mysore,Mysore,Onion,Red,2026-01-02,3165,3941,3891

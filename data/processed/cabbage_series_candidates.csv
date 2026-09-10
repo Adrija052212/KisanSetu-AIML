@@ -1,0 +1,307 @@
+State,District,Market,Commodity,Variety,Grade,observations,start_date,end_date,calendar_span_days,median_gap_days,max_gap_days,consecutive_day_pairs,continuity_pct
+Tamil Nadu,Coimbatore,Pollachi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Coimbatore,RSPuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Coimbatore,Singanallur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Cuddalore,Cuddalore(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Dharmapuri,AJattihalli(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Dharmapuri,Dharmapuri(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Dharmapuri,Pennagaram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Namakkal,Kumarapalayam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Namakkal,Rasipuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Namakkal,Tiruchengode APMC,Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Salem,Ammapet(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Salem,Elampillai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Salem,Jalagandapuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Salem,Mettur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Salem,Sooramangalam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Thiruchirappalli,Manachanallur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,301,2025-11-08,2026-09-04,301,1.0,1.0,300,100.0
+Tamil Nadu,Cuddalore,Vadalur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,214,2026-02-03,2026-09-04,214,1.0,1.0,213,100.0
+Tamil Nadu,Karur,Gandhigramam(Uzhavar Sandhai),Cabbage,Cabbage,Local,207,2026-02-10,2026-09-04,207,1.0,1.0,206,100.0
+Tamil Nadu,Coimbatore,Sundarapuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Cuddalore,Viruthachalam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Dharmapuri,Palacode(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Erode,Sathiyamagalam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Erode,Thalavadi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Krishnagiri,Avallapalli(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Krishnagiri,Denkanikottai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Krishnagiri,Hosur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Nagercoil (Kannyiakumari),Vadaseri APMC,Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Perambalur,Perambalur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Ranipet,Arcot(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Salem,Athur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Salem,Hasthampatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Salem,Thammampatti (Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thanjavur,Kumbakonam (Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thanjavur,Pattukottai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thiruchirappalli,Lalgudi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thiruchirappalli,Thuraiyur APMC,Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thirunelveli,Palayamkottai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thirupur,Dharapuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Thiruvannamalai,Polur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Villupuram,Gingee(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Villupuram,Tindivanam APMC,Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Virudhunagar,Aruppukottai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Virudhunagar,Srivilliputhur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,300,2025-11-08,2026-09-04,301,1.0,2.0,298,99.66555183946488
+Tamil Nadu,Coimbatore,Vadavalli(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,3.0,297,99.66442953020132
+West Bengal,Darjeeling,Darjeeling APMC,Cabbage,Other,FAQ,299,2025-11-08,2026-09-04,301,1.0,3.0,297,99.66442953020132
+Tamil Nadu,Salem,Vazhapadi(Uzhavar Sandhai),Cabbage,Cabbage,Local,206,2026-02-10,2026-09-04,207,1.0,2.0,204,99.51219512195122
+Tamil Nadu,Coimbatore,Udumalpet APMC,Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Dindigul,Chinnalapatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Erode,Perundurai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Karur,Karur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Karur,Kulithalai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Krishnagiri,Krishnagiri(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Madurai,Anna nagar(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Namakkal,Mohanur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Namakkal,Namakkal(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Namakkal,Paramathivelur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Ramanathapuram,Paramakudi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Salem,Edapadi (Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Salem,Thathakapatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Sivaganga,Devakottai (Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Sivaganga,Sivagangai (Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Sivaganga,Tirupatthur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Tenkasi,Tenkasi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Theni,Chinnamanur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Thiruchirappalli,Manapparai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Thiruchirappalli,Musiri(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Virudhunagar,Kariyapatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Virudhunagar,Rajapalayam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Virudhunagar,Sivakasi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Virudhunagar,Thalavaipuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,299,2025-11-08,2026-09-04,301,1.0,2.0,296,99.32885906040268
+Tamil Nadu,Coimbatore,Sulur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,3.0,295,99.32659932659934
+Tamil Nadu,Thirupur,Palladam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,3.0,295,99.32659932659934
+Tamil Nadu,Thiruvarur,Mannargudi II(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,3.0,295,99.32659932659934
+West Bengal,Darjeeling,Karsiyang(Matigara) APMC,Cabbage,Other,FAQ,297,2025-11-08,2026-09-04,301,1.0,3.0,294,99.32432432432432
+Tamil Nadu,Kancheepuram,Kundrathur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,290,2025-11-08,2026-09-04,301,1.0,11.0,287,99.30795847750863
+Tamil Nadu,Thiruchirappalli,KKNagar(Uzhavar Sandhai ),Cabbage,Cabbage,Local,212,2026-02-03,2026-09-04,214,1.0,2.0,209,99.0521327014218
+Tamil Nadu,Thiruchirappalli,Thiruverumbur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,212,2026-02-03,2026-09-04,214,1.0,2.0,209,99.0521327014218
+Tamil Nadu,Thiruvellore,Tiruthani(Uzhavar Sandhai ),Cabbage,Cabbage,Local,212,2026-02-03,2026-09-04,214,1.0,2.0,209,99.0521327014218
+Tamil Nadu,Dharmapuri,Karimangalam(Uzhavar Sandhai),Cabbage,Cabbage,Local,205,2026-02-10,2026-09-04,207,1.0,2.0,202,99.01960784313728
+Tamil Nadu,Nagapattinam,Vedaranyam(Uzhavar Sandhai),Cabbage,Cabbage,Local,205,2026-02-10,2026-09-04,207,1.0,2.0,202,99.01960784313728
+Tamil Nadu,Madurai,Palanganatham(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Nagapattinam,Mayiladuthurai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Nagapattinam,Nagapattinam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Nagapattinam,Sirkali(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Pudukkottai,Pudukottai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Sivaganga,Karaikudi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Sivaganga,Singampunari(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Thanjavur,Thanjavur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Theni,Devaram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Thirupathur,Natrampalli(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Tuticorin,Kovilpatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Vellore,Gudiyatham(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Vellore,Kahithapattarai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Vellore,Thirupathur APMC,Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Virudhunagar,Sathur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,298,2025-11-08,2026-09-04,301,1.0,2.0,294,98.989898989899
+Tamil Nadu,Coimbatore,Mettupalayam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Erode,Sampath Nagar(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Ramanathapuram,Ramanathapuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,The Nilgiris,Coonoor(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,The Nilgiris,Udhagamandalam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Thiruvannamalai,Cheyyar(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Thiruvannamalai,Tiruvannamalai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Thiruvarur,Muthupettai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Vellore,Vellore APMC,Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,3.0,293,98.98648648648648
+Tamil Nadu,Salem,Attayampatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,241,2025-11-08,2026-07-09,244,1.0,2.0,237,98.75
+Tamil Nadu,Dindigul,Dindigul(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Dindigul,Palani(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Kallakuruchi,Kallakurichi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Theni,Kambam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Theni,Periyakulam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Thirupur,Tiruppur (North) (Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Vellore,Katpadi (Uzhavar Sandhai ),Cabbage,Cabbage,Local,297,2025-11-08,2026-09-04,301,1.0,2.0,292,98.64864864864865
+Tamil Nadu,Thiruvannamalai,Arani(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,3.0,291,98.64406779661016
+Tamil Nadu,Thiruvannamalai,Chengam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,3.0,291,98.64406779661016
+Tamil Nadu,Thiruvarur,Mannargudi I(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,3.0,291,98.64406779661016
+Tamil Nadu,Thirupur,Tiruppur (South) (Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,3.0,290,98.63945578231292
+Tamil Nadu,Madurai,Anaiyur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,2.0,290,98.30508474576273
+Tamil Nadu,Madurai,Chokkikulam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,2.0,290,98.30508474576273
+Tamil Nadu,Theni,Bodinayakanur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,2.0,290,98.30508474576273
+Tamil Nadu,Theni,Theni(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,2.0,290,98.30508474576273
+Tamil Nadu,Thirunelveli,Melapalayam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,296,2025-11-08,2026-09-04,301,1.0,2.0,290,98.30508474576273
+Gujarat,Dahod,Dahod(Veg. Market) APMC,Cabbage,Cabbage,Local,295,2025-11-08,2026-09-03,300,1.0,2.0,289,98.29931972789116
+Tamil Nadu,The Nilgiris,Gudalur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,3.0,289,98.29931972789116
+Tamil Nadu,Thiruvellore,Paruthipattu(Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,3.0,289,98.29931972789116
+Tamil Nadu,Tuticorin,Tuticorin(Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,3.0,289,98.29931972789116
+Tamil Nadu,Ariyalur,Ariyalur(Uzhavar Sandhai),Cabbage,Cabbage,Local,274,2025-11-08,2026-09-04,301,1.0,24.0,268,98.16849816849816
+Tamil Nadu,Vellore,Perampet(Uzhavar Sandhai),Cabbage,Cabbage,Local,202,2026-02-10,2026-09-04,207,1.0,3.0,197,98.0099502487562
+Tamil Nadu,Dharmapuri,Harur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,2.0,288,97.95918367346938
+Tamil Nadu,Ranipet,Ranipettai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,295,2025-11-08,2026-09-04,301,1.0,2.0,288,97.95918367346938
+Tamil Nadu,Chengalpattu,Jameenrayapettai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,294,2025-11-08,2026-09-04,301,1.0,3.0,287,97.95221843003414
+Tamil Nadu,Chengalpattu,Pallavaram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,293,2025-11-08,2026-09-03,300,1.0,3.0,286,97.94520547945206
+Tamil Nadu,Erode,Gobichettipalayam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,293,2025-11-08,2026-09-04,301,1.0,4.0,286,97.94520547945206
+Gujarat,Navsari,Bilimora APMC,Cabbage,Other,FAQ,294,2025-11-08,2026-09-04,301,1.0,2.0,286,97.61092150170649
+Tamil Nadu,Theni,Andipatti(Uzhavar Sandhai ),Cabbage,Cabbage,Local,294,2025-11-08,2026-09-04,301,1.0,2.0,286,97.61092150170649
+Tamil Nadu,Thirunelveli,NGO Colony(Uzhavar Sandhai ),Cabbage,Cabbage,Local,292,2025-11-08,2026-09-04,301,1.0,3.0,284,97.59450171821304
+Tamil Nadu,Thirupathur,Vaniyampadi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,292,2025-11-08,2026-09-02,299,1.0,2.0,284,97.59450171821304
+West Bengal,Kolkata,Sealdah Koley Market APMC,Cabbage,Other,FAQ,292,2025-11-08,2026-09-03,300,1.0,3.0,284,97.59450171821304
+Tamil Nadu,Thanjavur,Papanasam(Uzhavar Sandhai ),Cabbage,Cabbage,Local,291,2025-11-08,2026-09-04,301,1.0,3.0,282,97.24137931034484
+Tamil Nadu,Chengalpattu,Nanganallur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,289,2025-11-08,2026-09-04,301,1.0,5.0,280,97.2222222222222
+Telangana,Warangal,Warangal APMC,Cabbage,Cabbage,FAQ,257,2025-12-12,2026-09-04,267,1.0,3.0,247,96.484375
+Tamil Nadu,Kancheepuram,Sunguvarchatram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,289,2025-11-08,2026-09-04,301,1.0,3.0,277,96.18055555555556
+Tamil Nadu,Kancheepuram,Padappai(Uzhavar Sandhai ),Cabbage,Cabbage,Local,287,2025-11-08,2026-09-04,301,1.0,4.0,275,96.15384615384616
+Tamil Nadu,Ariyalur,Jeyankondam (Uzhavar Sandhai ),Cabbage,Cabbage,Local,245,2025-11-08,2026-07-24,259,1.0,3.0,234,95.90163934426228
+Tamil Nadu,Chengalpattu,Guduvancheri(Uzhavar Sandhai ),Cabbage,Cabbage,Local,269,2025-11-08,2026-08-22,288,1.0,5.0,257,95.8955223880597
+Maharashtra,Pune,Pune(Manjri),Cabbage,Other,Local,287,2025-11-08,2026-09-03,300,1.0,3.0,274,95.8041958041958
+Tamil Nadu,Vellore,Pallikonda(Uzhavar Sandhai),Cabbage,Cabbage,Local,184,2026-02-10,2026-09-04,207,1.0,8.0,175,95.62841530054644
+Tamil Nadu,Villupuram,Villupuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,203,2026-02-03,2026-09-04,214,1.0,3.0,193,95.54455445544554
+Tamil Nadu,Chengalpattu,Chengalpet(Uzhavar Sandhai ),Cabbage,Cabbage,Local,284,2025-11-08,2026-09-03,300,1.0,3.0,269,95.0530035335689
+Maharashtra,Nashik,APMC Nasik,Cabbage,Other,Local,282,2025-11-08,2026-09-03,300,1.0,4.0,267,95.01779359430606
+Keralam,Palakad,Koduvayoor Market,Cabbage,Cabbage,Medium,278,2025-11-10,2026-09-02,297,1.0,4.0,263,94.94584837545126
+Assam,Kamrup,Pamohi(Garchuk) APMC,Cabbage,Cabbage,FAQ,248,2025-12-15,2026-09-03,263,1.0,3.0,234,94.73684210526316
+Tamil Nadu,Thiruvannamalai,Keelpennathur(Uzhavar Sandhai ),Cabbage,Cabbage,Local,236,2025-11-08,2026-07-27,262,1.0,9.0,221,94.04255319148936
+Karnataka,Bengaluru South,Ramanagara APMC,Cabbage,Cabbage,Local,284,2025-11-08,2026-09-04,301,1.0,2.0,266,93.9929328621908
+West Bengal,Paschim Bardhaman,Durgapur APMC,Cabbage,Other,FAQ,280,2025-11-09,2026-09-03,299,1.0,3.0,262,93.9068100358423
+Odisha,Keonjhar,Champua APMC,Cabbage,Other,Local,269,2025-11-13,2026-09-03,295,1.0,5.0,251,93.65671641791045
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,Local,279,2025-11-08,2026-09-04,301,1.0,3.0,260,93.5251798561151
+Gujarat,Rajkot,Gondal(Veg.market Gondal) APMC,Cabbage,Cabbage,Local,276,2025-11-08,2026-09-01,298,1.0,3.0,256,93.0909090909091
+Haryana,Hissar,Hansi APMC,Cabbage,Other,FAQ,253,2025-11-09,2026-09-04,300,1.0,27.0,233,92.46031746031748
+Telangana,Hyderabad,Bowenpally APMC,Cabbage,Cabbage,FAQ,274,2025-11-08,2026-09-03,300,1.0,3.0,252,92.3076923076923
+Tamil Nadu,Nagercoil (Kannyiakumari),Myladi(Uzhavar Sandhai ),Cabbage,Cabbage,Local,257,2025-11-08,2026-09-04,301,1.0,4.0,236,92.1875
+Keralam,Kollam,Chathanoor Market,Cabbage,Other,FAQ,236,2025-11-19,2026-08-31,286,1.0,15.0,216,91.91489361702128
+Odisha,Sundergarh,Panposh APMC,Cabbage,Cabbage,FAQ,184,2025-11-28,2026-09-04,281,1.0,65.0,168,91.8032786885246
+Uttar Pradesh,Shamli,Kairana APMC,Cabbage,Cabbage,FAQ,183,2025-12-07,2026-09-03,271,1.0,41.0,167,91.75824175824177
+Telangana,Hyderabad,Gudimalkapur APMC,Cabbage,Cabbage,Grade B,274,2025-11-08,2026-09-04,301,1.0,3.0,250,91.57509157509158
+Gujarat,Navsari,Navsari APMC,Cabbage,Cabbage,Local,268,2025-11-12,2026-09-03,296,1.0,4.0,243,91.01123595505618
+Keralam,Alappuzha,Kayamkulam Market,Cabbage,Other,FAQ,270,2025-11-08,2026-09-03,300,1.0,4.0,243,90.33457249070632
+Maharashtra,Nagpur,APMC Kamthi,Cabbage,Other,Local,268,2025-11-08,2026-09-04,301,1.0,6.0,239,89.51310861423221
+Tamil Nadu,Virudhunagar,Virudhunagar(Uzhavar Sandhai ),Cabbage,Cabbage,Local,254,2025-11-08,2026-09-04,301,1.0,7.0,225,88.93280632411067
+Rajasthan,Udaipur,Udaipur (F&V) APMC,Cabbage,Other,Medium,256,2025-11-08,2026-09-04,301,1.0,5.0,225,88.23529411764706
+Gujarat,Amreli,Damnagar APMC,Cabbage,Cabbage,Local,264,2025-11-09,2026-09-03,299,1.0,3.0,231,87.83269961977186
+Haryana,Sonipat,Ganaur APMC,Cabbage,Cabbage,Medium,263,2025-11-08,2026-09-03,300,1.0,5.0,230,87.78625954198473
+Haryana,Mahendragarh-Narnaul,Narnaul APMC,Cabbage,Cabbage,Medium,260,2025-11-08,2026-09-03,300,1.0,4.0,227,87.64478764478764
+Himachal Pradesh,Mandi,SMY Takoli,Cabbage,Other,Medium,219,2025-11-13,2026-09-03,295,1.0,21.0,190,87.1559633027523
+Madhya Pradesh,Dewas,Dewas(F&V) APMC,Cabbage,Other,FAQ,184,2026-01-28,2026-09-03,219,1.0,4.0,157,85.79234972677595
+Andhra Pradesh,Chittor,Palamaner APMC,Cabbage,Cabbage,FAQ,223,2025-11-17,2026-09-03,291,1.0,23.0,190,85.58558558558559
+Gujarat,Surat,Surat APMC,Cabbage,Cabbage,FAQ,256,2025-11-08,2026-09-03,300,1.0,4.0,217,85.09803921568627
+Keralam,Palakad,Pattambi Market,Cabbage,Cabbage,FAQ,245,2025-11-13,2026-09-03,295,1.0,6.0,206,84.42622950819673
+Himachal Pradesh,Kullu,PMY Kullu,Cabbage,Other,FAQ,190,2025-11-13,2026-09-03,295,1.0,59.0,159,84.12698412698413
+Telangana,Ranga Reddy,Shadnagar APMC,Cabbage,Cabbage,Local,246,2025-11-08,2026-09-03,300,1.0,5.0,206,84.08163265306122
+Keralam,Kozhikode(Calicut),Kallachi Market,Cabbage,Cabbage,FAQ,245,2025-11-10,2026-09-03,298,1.0,5.0,203,83.19672131147541
+Gujarat,Bharuch,Bharuch APMC,Cabbage,Other,Local,227,2025-11-10,2026-09-03,298,1.0,8.0,188,83.1858407079646
+Punjab,Ludhiana,Ludhiana APMC,Cabbage,Other,FAQ,256,2025-11-08,2026-09-04,301,1.0,3.0,211,82.74509803921568
+Uttarakhand,Dehradoon,Rishikesh APMC,Cabbage,Other,Medium,218,2025-11-10,2026-08-06,270,1.0,4.0,179,82.48847926267281
+Keralam,Thirssur,Chelakkara Market,Cabbage,Cabbage,FAQ,242,2025-11-10,2026-09-02,297,1.0,5.0,198,82.15767634854771
+Gujarat,Kheda,Kapadvanj APMC,Cabbage,Cabbage,Medium,187,2026-01-17,2026-09-03,230,1.0,7.0,152,81.72043010752688
+Haryana,Kurukshetra,Shahabad APMC,Cabbage,Cabbage,Medium,247,2025-11-08,2026-09-03,300,1.0,7.0,201,81.70731707317073
+Haryana,Yamuna Nagar,Jagadhri APMC,Cabbage,Cabbage,Medium,245,2025-11-08,2026-09-03,300,1.0,4.0,199,81.55737704918032
+Himachal Pradesh,Kullu,SMY Bhuntar,Cabbage,Other,FAQ,239,2025-11-24,2026-09-04,285,1.0,3.0,194,81.5126050420168
+Maharashtra,Nagpur,APMC Kalmeshwar,Cabbage,Other,Local,251,2025-11-08,2026-09-04,301,1.0,3.0,203,81.2
+Keralam,Thiruvananthapuram,Pothencode Market,Cabbage,Cabbage,Local,229,2025-11-11,2026-08-31,294,1.0,6.0,185,81.14035087719299
+Rajasthan,Jalore,Jalore APMC,Cabbage,Cabbage,Local,245,2025-11-09,2026-09-04,300,1.0,3.0,197,80.73770491803278
+Himachal Pradesh,Kangra,SMY Palampur,Cabbage,Cabbage,FAQ,244,2025-11-10,2026-09-04,299,1.0,3.0,196,80.65843621399176
+Himachal Pradesh,Kangra,SMY Jaisinghpur,Cabbage,Cabbage,FAQ,243,2025-11-10,2026-09-04,299,1.0,4.0,195,80.57851239669421
+Telangana,Hyderabad,Bowenpally APMC,Cabbage,Other,FAQ,217,2025-11-12,2026-08-27,289,1.0,8.0,173,80.0925925925926
+Karnataka,Chamarajanagar,Chamarajanagar APMC,Cabbage,Cabbage,Local,242,2025-11-10,2026-09-04,299,1.0,5.0,193,80.08298755186722
+Maharashtra,Pune,Junnar(Otur),Cabbage,Other,Local,242,2025-11-08,2026-09-02,299,1.0,4.0,193,80.08298755186722
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cabbage,Other,Local,246,2025-11-08,2026-09-02,299,1.0,5.0,196,80.0
+Keralam,Kottayam,Thalayolaparambu Market,Cabbage,Cabbage,FAQ,216,2025-11-12,2026-09-03,296,1.0,8.0,172,80.0
+Keralam,Malappuram,Parappanangadi Market,Cabbage,Other,FAQ,225,2025-12-01,2026-09-02,276,1.0,3.0,179,79.91071428571429
+Keralam,Thiruvananthapuram,Aralamoodu Market,Cabbage,Cabbage,FAQ,220,2025-11-14,2026-09-03,294,1.0,7.0,175,79.90867579908677
+Maharashtra,Kolhapur,APMC Kolhapur,Cabbage,Other,Local,244,2025-11-08,2026-09-03,300,1.0,3.0,194,79.83539094650206
+Keralam,Thiruvananthapuram,Neyyatinkara Market,Cabbage,Other,FAQ,233,2025-11-11,2026-09-03,297,1.0,4.0,185,79.74137931034483
+Keralam,Kottayam,Kanjirappally Market,Cabbage,Cabbage,FAQ,228,2025-11-16,2026-09-02,291,1.0,4.0,181,79.73568281938326
+Maharashtra,Mumbai,APMC Mumbai,Cabbage,Other,Local,228,2025-11-10,2026-09-04,299,1.0,4.0,181,79.73568281938326
+Telangana,Hyderabad,Mahboob Manison APMC,Cabbage,Cabbage,Medium,228,2025-11-10,2026-09-03,298,1.0,5.0,181,79.73568281938326
+Punjab,Fazilka,Jalalabad APMC,Cabbage,Other,Medium,213,2025-11-10,2026-09-04,299,1.0,5.0,169,79.71698113207547
+Maharashtra,Satara,APMC Satara,Cabbage,Other,Local,238,2025-11-09,2026-09-03,299,1.0,4.0,188,79.32489451476793
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,Local,241,2025-11-08,2026-09-04,301,1.0,5.0,190,79.16666666666666
+Keralam,Ernakulam,North Paravur Market,Cabbage,Cabbage,FAQ,217,2025-11-24,2026-09-03,284,1.0,7.0,171,79.16666666666666
+Maharashtra,Satara,APMC Vai,Cabbage,Other,Local,226,2025-11-08,2026-09-02,299,1.0,5.0,178,79.11111111111111
+Gujarat,Kheda,Nadiyad(Piplag) APMC,Cabbage,Cabbage,FAQ,240,2025-11-08,2026-09-03,300,1.0,4.0,189,79.07949790794979
+Himachal Pradesh,Mandi,SMY Dhanotu,Cabbage,Cabbage,FAQ,235,2025-11-11,2026-09-03,297,1.0,6.0,185,79.05982905982906
+Gujarat,Vadodara(Baroda),Padra APMC,Cabbage,Other,FAQ,233,2025-11-08,2026-09-03,300,1.0,7.0,183,78.87931034482759
+Keralam,Palakad,Kollengode Market,Cabbage,Cabbage,FAQ,223,2025-11-08,2026-09-03,300,1.0,6.0,175,78.82882882882883
+Keralam,Alappuzha,Harippad Market,Cabbage,Cabbage,FAQ,245,2025-11-08,2026-09-04,301,1.0,3.0,192,78.68852459016394
+Haryana,Ambala,Naraingarh APMC,Cabbage,Cabbage,Medium,239,2025-11-08,2026-09-03,300,1.0,4.0,187,78.57142857142857
+Himachal Pradesh,Mandi,PMY Kangni Mandi,Cabbage,Cabbage,Grade B,228,2025-11-12,2026-09-02,295,1.0,5.0,178,78.41409691629956
+Maharashtra,Ahilyanagar,APMC Shrirampur,Cabbage,Other,Local,246,2025-11-08,2026-09-04,301,1.0,3.0,192,78.36734693877551
+Himachal Pradesh,Kangra,PMY Kangra,Cabbage,Cabbage,FAQ,234,2025-11-11,2026-09-03,297,1.0,4.0,182,78.11158798283262
+Keralam,Palakad,Vadakkenchery Market,Cabbage,Cabbage,FAQ,241,2025-11-08,2026-09-02,299,1.0,3.0,187,77.91666666666667
+Gujarat,Morbi,Morbi APMC,Cabbage,Cabbage,FAQ,231,2025-11-08,2026-08-29,295,1.0,7.0,179,77.82608695652173
+NCT of Delhi,Delhi,APMC Azadpur,Cabbage,Cabbage,FAQ,208,2025-11-10,2026-09-03,298,1.0,27.0,161,77.77777777777779
+Gujarat,Mehsana,Mehsana(Mehsana Veg) APMC,Cabbage,Cabbage,Local,238,2025-11-08,2026-09-03,300,1.0,5.0,184,77.63713080168776
+Himachal Pradesh,Una,SMY Santoshgarh,Cabbage,Cabbage,FAQ,229,2025-11-11,2026-09-03,297,1.0,5.0,177,77.63157894736842
+Keralam,Kottayam,Pala Market,Cabbage,Cabbage,FAQ,220,2025-11-13,2026-09-03,295,1.0,7.0,170,77.6255707762557
+Maharashtra,Chattrapati Sambhajinagar,APMC Chattrapati Sambhajinagar,Cabbage,Other,Local,235,2025-11-09,2026-09-03,299,1.0,5.0,181,77.35042735042735
+Haryana,Kurukshetra,Thanesar APMC,Cabbage,Cabbage,Local,234,2025-11-10,2026-09-03,298,1.0,4.0,180,77.25321888412017
+Maharashtra,Pune,APMC Pune,Cabbage,Other,Local,229,2025-11-09,2026-09-04,300,1.0,6.0,176,77.19298245614034
+NCT of Delhi,Delhi,APMC Keshopur,Cabbage,Cabbage,FAQ,229,2025-11-08,2026-09-03,300,1.0,5.0,176,77.19298245614034
+Keralam,Alappuzha,Aroor Market,Cabbage,Other,FAQ,234,2025-11-08,2026-09-03,300,1.0,5.0,179,76.82403433476395
+Keralam,Ernakulam,Angamaly Market,Cabbage,Cabbage,FAQ,224,2025-11-08,2026-09-03,300,1.0,6.0,171,76.68161434977578
+Keralam,Ernakulam,Thrippunithura Market,Cabbage,Cabbage,Medium,231,2025-11-08,2026-09-03,300,1.0,3.0,176,76.52173913043478
+Punjab,Ludhiana,Khanna APMC,Cabbage,Other,Grade A,222,2025-11-19,2026-09-03,289,1.0,4.0,169,76.47058823529412
+Karnataka,Kolar,Kolar APMC,Cabbage,Cabbage,Local,192,2025-11-13,2026-09-03,295,1.0,27.0,146,76.43979057591623
+Himachal Pradesh,Hamirpur,PMY Hamirpur,Cabbage,Cabbage,Grade B,224,2025-11-10,2026-09-03,298,1.0,5.0,170,76.23318385650224
+Keralam,Kozhikode(Calicut),Quilandy Market,Cabbage,Other,FAQ,235,2025-11-08,2026-09-03,300,1.0,4.0,178,76.06837606837607
+Karnataka,Shivamogga,Shimoga APMC,Cabbage,Cabbage,Local,189,2025-11-10,2026-09-04,299,1.0,40.0,143,76.06382978723404
+Punjab,Jalandhar,Adampur APMC,Cabbage,Cabbage,FAQ,218,2025-11-17,2026-09-03,291,1.0,8.0,165,76.036866359447
+Haryana,Sirsa,Sirsa APMC,Cabbage,Other,FAQ,188,2025-11-15,2026-09-02,292,1.0,21.0,142,75.93582887700535
+Keralam,Palakad,Palakkad Market,Cabbage,Cabbage,FAQ,233,2025-11-10,2026-09-03,298,1.0,4.0,176,75.86206896551724
+Gujarat,Gir Somnath,Talalagir APMC,Cabbage,Cabbage,FAQ,206,2025-11-17,2026-09-01,289,1.0,14.0,155,75.60975609756098
+Keralam,Malappuram,Manjeri Market,Cabbage,Other,Local,210,2025-11-09,2026-09-01,297,1.0,5.0,158,75.5980861244019
+Keralam,Kollam,Anchal Market,Cabbage,Cabbage,Medium,201,2025-11-12,2026-09-04,297,1.0,15.0,151,75.5
+Tamil Nadu,Kancheepuram,Kancheepuram(Uzhavar Sandhai ),Cabbage,Cabbage,Local,183,2025-11-08,2026-08-22,288,1.0,24.0,137,75.27472527472527
+Himachal Pradesh,Chamba,PMY Chamba,Cabbage,Cabbage,Medium,206,2025-11-08,2026-09-02,299,1.0,14.0,154,75.1219512195122
+Keralam,Kasargod,Kanjangadu Market,Cabbage,Cabbage,FAQ,226,2025-11-10,2026-09-02,297,1.0,5.0,169,75.1111111111111
+Keralam,Alappuzha,Chengannur Market,Cabbage,Other,FAQ,224,2025-11-14,2026-09-04,295,1.0,4.0,167,74.88789237668162
+Keralam,Kollam,Kottarakkara Market,Cabbage,Other,Local,212,2025-11-11,2026-09-03,297,1.0,7.0,158,74.88151658767772
+Karnataka,Chikkaballapur,Gauribidanur APMC,Cabbage,Cabbage,Local,198,2025-11-10,2026-09-03,298,1.0,16.0,147,74.61928934010153
+Karnataka,Bengaluru,Binny Mill (FF&V) Bengaluru APMC,Cabbage,Cabbage,Local,201,2025-11-11,2026-09-03,297,1.0,10.0,149,74.5
+Maharashtra,Pune,APMC Khed,Cabbage,Other,Local,212,2025-11-12,2026-09-03,296,1.0,5.0,157,74.40758293838863
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,Local,212,2025-11-09,2026-09-03,299,1.0,7.0,157,74.40758293838863
+Himachal Pradesh,Kangra,SMY Dharamshala,Cabbage,Cabbage,FAQ,204,2025-12-04,2026-09-03,274,1.0,3.0,151,74.38423645320196
+Keralam,Ernakulam,Aluva Market,Cabbage,Cabbage,FAQ,215,2025-11-10,2026-09-03,298,1.0,5.0,159,74.29906542056075
+Himachal Pradesh,Hamirpur,SMY Nadaun,Cabbage,Other,Grade B,214,2025-11-12,2026-09-03,296,1.0,7.0,158,74.17840375586854
+Maharashtra,Solapur,APMC Akluj,Cabbage,Other,Local,224,2025-11-08,2026-09-03,300,1.0,5.0,165,73.99103139013454
+Gujarat,Anand,"Anand(Veg,Yard,Anand) APMC",Cabbage,Cabbage,Grade B,220,2025-11-10,2026-09-03,298,1.0,7.0,162,73.97260273972603
+Jammu and Kashmir,Srinagar,Parimpore Srinagar (F&V),Cabbage,Other,FAQ,196,2025-11-10,2026-07-28,261,1.0,4.0,144,73.84615384615385
+Uttarakhand,Udhamsinghnagar,Rudrapur APMC,Cabbage,Other,Medium,212,2025-11-11,2026-09-03,297,1.0,8.0,155,73.45971563981043
+Keralam,Kottayam,Ettumanoor Market,Cabbage,Cabbage,FAQ,212,2025-11-14,2026-09-03,294,1.0,6.0,154,72.98578199052133
+Himachal Pradesh,Una,PMY Una,Cabbage,Cabbage,Local,215,2025-11-10,2026-09-02,297,1.0,5.0,156,72.89719626168224
+Keralam,Kozhikode(Calicut),Mukkom Market,Cabbage,Cabbage,FAQ,222,2025-11-17,2026-09-03,291,1.0,4.0,161,72.85067873303167
+Maharashtra,Solapur,APMC Solapur,Cabbage,Other,Local,222,2025-11-08,2026-09-03,300,1.0,8.0,160,72.39819004524887
+Gujarat,Bharuch,Ankleshwar APMC,Cabbage,Cabbage,Grade A,213,2025-11-09,2026-09-03,299,1.0,7.0,153,72.16981132075472
+Haryana,Faridabad,Ballabhgarh APMC,Cabbage,Other,FAQ,213,2025-11-09,2026-09-03,299,1.0,5.0,153,72.16981132075472
+Odisha,Rayagada,Rayagada APMC,Cabbage,Cabbage,Local,195,2025-11-11,2026-09-03,297,1.0,6.0,140,72.16494845360825
+Himachal Pradesh,Mandi,SMY Jogindernagar,Cabbage,Cabbage,Grade B,209,2025-11-14,2026-09-04,295,1.0,7.0,150,72.11538461538461
+NCT of Delhi,Delhi,"Fruit&Vegetable Market,Gazipur APMC",Cabbage,Cabbage,FAQ,193,2025-11-16,2026-09-02,291,1.0,6.0,138,71.875
+Haryana,Panipat,Panipat APMC,Cabbage,Other,Local,200,2025-11-08,2026-09-03,300,1.0,14.0,143,71.85929648241206
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard) APMC,Cabbage,Other,FAQ,196,2025-11-10,2026-09-02,297,1.0,7.0,140,71.7948717948718
+Maharashtra,Satara,APMC Karad,Cabbage,Other,Local,210,2025-11-08,2026-09-03,300,1.0,5.0,150,71.77033492822966
+Keralam,Alappuzha,Madhavapuram Market,Cabbage,Other,FAQ,188,2025-11-08,2026-08-26,292,1.0,7.0,134,71.65775401069519
+Haryana,Sonipat,Sonepat APMC,Cabbage,Other,FAQ,194,2025-11-08,2026-09-03,300,1.0,13.0,138,71.50259067357513
+Gujarat,Anand,Khambhat(Veg Yard Khambhat) APMC,Cabbage,Other,Local,222,2025-11-08,2026-09-04,301,1.0,4.0,158,71.49321266968326
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,Local,211,2025-11-11,2026-09-04,298,1.0,7.0,150,71.42857142857143
+Haryana,Panipat,Samalkha APMC,Cabbage,Cabbage,FAQ,203,2025-11-13,2026-09-04,296,1.0,6.0,144,71.28712871287128
+Uttarakhand,Haridwar,Haridwar Union APMC,Cabbage,Other,FAQ,180,2025-11-29,2026-08-07,252,1.0,4.0,127,70.94972067039106
+Punjab,Patiala,Patran APMC,Cabbage,Other,Grade A,183,2025-11-11,2026-09-03,297,1.0,6.0,129,70.87912087912088
+Punjab,Kapurthala,Phagwara APMC,Cabbage,Other,FAQ,207,2025-11-10,2026-09-02,297,1.0,5.0,146,70.87378640776699
+Keralam,Kottayam,Pampady Market,Cabbage,Cabbage,FAQ,200,2025-11-15,2026-09-02,292,1.0,6.0,140,70.35175879396985
+Maharashtra,Jalgaon,APMC Bhusaval,Cabbage,Other,Local,206,2025-11-08,2026-09-04,301,1.0,7.0,144,70.24390243902438
+Himachal Pradesh,Solan,SMY Nalagarh,Cabbage,Other,Medium,201,2025-11-10,2026-09-03,298,1.0,8.0,140,70.0
+Maharashtra,Nagpur,APMC Hingna,Cabbage,Other,Local,214,2025-11-08,2026-09-03,300,1.0,5.0,149,69.95305164319248
+Keralam,Idukki,Kattappana Market,Cabbage,Other,Medium,187,2025-11-09,2026-09-01,297,1.0,16.0,130,69.89247311827957
+Keralam,Thiruvananthapuram,Balarampuram Market,Cabbage,Cabbage,FAQ,204,2025-11-17,2026-08-31,288,1.0,6.0,140,68.96551724137932
+Keralam,Kottayam,Athirampuzha Market,Cabbage,Cabbage,FAQ,200,2025-11-10,2026-09-03,298,1.0,5.0,137,68.84422110552764
+Keralam,Idukki,Adimali Market,Cabbage,Cabbage,Medium,209,2025-11-08,2026-09-02,299,1.0,4.0,143,68.75
+Karnataka,Kolar,Bangarpet APMC,Cabbage,Cabbage,Local,199,2025-11-11,2026-09-03,297,1.0,7.0,136,68.68686868686868
+Keralam,Ernakulam,Perumbavoor Market,Cabbage,Cabbage,Medium,182,2025-11-15,2026-09-04,294,1.0,8.0,123,67.95580110497238
+Keralam,Thiruvananthapuram,Vamanapuram Market,Cabbage,Cabbage,FAQ,203,2025-11-12,2026-09-03,296,1.0,5.0,137,67.82178217821783
+Keralam,Kasargod,Neeleswaram Market,Cabbage,Other,FAQ,186,2025-11-11,2026-09-01,295,1.0,7.0,125,67.56756756756756
+Maharashtra,Pune,Junnar(Narayangaon),Cabbage,Other,Local,191,2025-11-08,2026-08-31,297,1.0,5.0,128,67.36842105263158
+Keralam,Ernakulam,Broadway market Market,Cabbage,Cabbage,Medium,180,2025-11-25,2026-09-02,282,1.0,7.0,120,67.0391061452514
+Keralam,Malappuram,Perinthalmanna Market,Cabbage,Cabbage,Large,191,2025-11-10,2026-09-01,296,1.0,7.0,127,66.84210526315789
+Himachal Pradesh,Kangra,SMY Nagrota Bagwan,Cabbage,Cabbage,FAQ,197,2025-11-10,2026-09-01,296,1.0,8.0,131,66.83673469387756
+Keralam,Kottayam,Kottayam Market,Cabbage,Cabbage,FAQ,183,2025-11-09,2026-09-02,298,1.0,5.0,121,66.48351648351648
+Keralam,Ernakulam,Piravam Market,Cabbage,Cabbage,Local,197,2025-11-09,2026-09-03,299,1.0,10.0,129,65.81632653061224
+Keralam,Ernakulam,Kothamangalam Market,Cabbage,Cabbage,FAQ,204,2025-11-13,2026-09-04,296,1.0,6.0,133,65.51724137931035
+Keralam,Thiruvananthapuram,Attingal Market,Cabbage,Other,Local,202,2025-11-11,2026-09-03,297,1.0,5.0,131,65.17412935323384
+Keralam,Idukki,Vandiperiyar Market,Cabbage,Other,Grade Range-1,196,2025-11-10,2026-09-01,296,1.0,5.0,127,65.12820512820512
+Gujarat,Ahmedabad,Ahmedabad APMC,Cabbage,Other,FAQ,192,2025-11-08,2026-09-02,299,1.0,7.0,124,64.92146596858639
+Keralam,Thirssur,Chavakkad Market,Cabbage,Cabbage,FAQ,194,2025-11-12,2026-09-03,296,1.0,6.0,123,63.730569948186535
+Keralam,Kasargod,Manjeswaram Market,Cabbage,Cabbage,FAQ,193,2025-11-10,2026-09-03,298,1.0,5.0,122,63.54166666666666
+Maharashtra,Jalgaon,APMC Jalgaon,Cabbage,Other,Local,188,2025-11-08,2026-09-03,300,1.0,6.0,116,62.03208556149733
+Keralam,Thirssur,Wadakkanchery Market,Cabbage,Cabbage,FAQ,183,2025-11-11,2026-09-02,296,1.0,6.0,109,59.89010989010989
+Maharashtra,Nagpur,APMC Nagpur,Cabbage,Other,Local,190,2025-11-08,2026-09-02,299,1.0,5.0,109,57.67195767195767
