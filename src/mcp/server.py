@@ -1,6 +1,10 @@
 from mcp.server import MCPServer
 
-from src.mcp.tools.prices import forecast_price_tool
+from src.mcp.tools.prices import (
+    forecast_price_tool,
+    current_price_tool,
+)
+
 from src.mcp.tools.recommendations import (
     buy_recommendation_tool,
     sell_recommendation_tool,
@@ -8,9 +12,19 @@ from src.mcp.tools.recommendations import (
     best_time_tool,
     net_return_tool,
 )
+
 from src.mcp.tools.matching import (
     best_buyers_tool,
     best_farmers_tool,
+)
+
+from src.services.decision_service import (
+    get_sell_decision_from_market,
+    get_buy_decision_from_market,
+)
+
+from src.services.market_decision_service import (
+    get_best_market_from_agmarknet,
 )
 
 
@@ -19,13 +33,21 @@ mcp = MCPServer("KisanSetu AI")
 
 @mcp.tool()
 def forecast_price(
-    historical_data: list[dict],
-    arrival_quantity: float | None = None,
-) -> dict:
-    """Forecast the future market price using historical market data."""
+    state: str,
+    district: str,
+    market: str,
+    commodity: str,
+    variety: str = None,
+    grade: str = None,
+):
+    """Forecast the future market price for a market and commodity."""
     return forecast_price_tool(
-        historical_data=historical_data,
-        arrival_quantity=arrival_quantity,
+        state=state,
+        district=district,
+        market=market,
+        commodity=commodity,
+        variety=variety,
+        grade=grade,
     )
 
 
@@ -36,7 +58,8 @@ def buy_recommendation(
     quantity: float = 1.0,
     min_change_percent: float = 2.0,
 ) -> dict:
-    """Recommend whether buying now is favorable based on current and predicted prices."""
+    """Recommend whether buying now is favorable."""
+
     return buy_recommendation_tool(
         current_price=current_price,
         predicted_price=predicted_price,
@@ -53,7 +76,8 @@ def sell_recommendation(
     quantity: float = 1.0,
     min_change_percent: float = 0.0,
 ) -> dict:
-    """Recommend whether to sell now or wait based on predicted price and costs."""
+    """Recommend whether to sell now or wait."""
+
     return sell_recommendation_tool(
         current_price=current_price,
         predicted_price=predicted_price,
@@ -64,25 +88,12 @@ def sell_recommendation(
 
 
 @mcp.tool()
-def best_market(
-    markets: list[dict],
-    quantity: float = 1.0,
-    mode: str = "sell",
-) -> dict:
-    """Find the best market for buying or selling after considering transport cost."""
-    return best_market_tool(
-        markets=markets,
-        quantity=quantity,
-        mode=mode,
-    )
-
-
-@mcp.tool()
 def best_time(
     predictions: list[dict],
     mode: str = "sell",
 ) -> dict:
-    """Find the best future date to buy or sell based on predicted prices."""
+    """Find the best future date to buy or sell."""
+
     return best_time_tool(
         predictions=predictions,
         mode=mode,
@@ -98,7 +109,8 @@ def net_return(
     other_costs: float = 0.0,
     mode: str = "sell",
 ) -> dict:
-    """Calculate the net return after transport, storage, and other costs."""
+    """Calculate net return after applicable costs."""
+
     return net_return_tool(
         price=price,
         quantity=quantity,
@@ -111,28 +123,143 @@ def net_return(
 
 @mcp.tool()
 def best_buyers(
-    farmer_lot: dict,
-    buyers: list[dict],
+    commodity: str,
+    quantity: float,
+    grade: str,
+    location: str,
+    variety: str = None,
+    expected_price: float = None,
 ) -> dict:
-    """Find and rank the best buyers for a farmer's lot."""
+    """Find and rank suitable buyers."""
+
     return best_buyers_tool(
-        farmer_lot=farmer_lot,
-        buyers=buyers,
+        commodity=commodity,
+        quantity=quantity,
+        grade=grade,
+        location=location,
+        variety=variety,
+        expected_price=expected_price,
     )
 
 
 @mcp.tool()
 def best_farmers(
-    buyer_requirement: dict,
-    farmers: list[dict],
+    commodity: str,
+    required_quantity: float,
+    grade: str,
+    location: str,
+    variety: str = None,
+    offered_price: float = None,
+    limit: int = 100,
 ) -> dict:
-    """Find and rank the best farmer lots for a buyer requirement."""
+    """Find and rank suitable farmer lots."""
+
     return best_farmers_tool(
-        buyer_requirement=buyer_requirement,
-        farmers=farmers,
+        commodity=commodity,
+        required_quantity=required_quantity,
+        grade=grade,
+        location=location,
+        variety=variety,
+        offered_price=offered_price,
+        limit=limit,
+    )
+
+
+@mcp.tool()
+def current_price(
+    date: str,
+    state: str,
+    district: str,
+    market: str,
+    commodity: str,
+    variety: str = None,
+    grade: str = None,
+) -> dict:
+    """Get the current mandi price from Agmarknet."""
+
+    return current_price_tool(
+        date=date,
+        state=state,
+        district=district,
+        market=market,
+        commodity=commodity,
+        variety=variety,
+        grade=grade,
+    )
+
+
+@mcp.tool()
+def buy_decision(
+    state: str,
+    district: str,
+    market: str,
+    commodity: str,
+    variety: str,
+    grade: str,
+    quantity: float,
+    min_change_percent: float = 2.0,
+) -> dict:
+    """Decide whether a buyer should buy now or wait."""
+
+    return get_buy_decision_from_market(
+        state=state,
+        district=district,
+        market=market,
+        commodity=commodity,
+        variety=variety,
+        grade=grade,
+        quantity=quantity,
+        min_change_percent=min_change_percent,
+    )
+
+
+@mcp.tool()
+def sell_decision(
+    state: str,
+    district: str,
+    market: str,
+    commodity: str,
+    variety: str,
+    grade: str,
+    quantity: float,
+    transport_cost: float = 0.0,
+    min_change_percent: float = 0.0,
+) -> dict:
+    """Decide whether a farmer should sell now or wait."""
+
+    return get_sell_decision_from_market(
+        state=state,
+        district=district,
+        market=market,
+        commodity=commodity,
+        variety=variety,
+        grade=grade,
+        quantity=quantity,
+        transport_cost=transport_cost,
+        min_change_percent=min_change_percent,
+    )
+
+
+@mcp.tool()
+def best_market(
+    state: str,
+    district: str,
+    commodity: str,
+    quantity: float = 1.0,
+    mode: str = "sell",
+    transport_costs: dict = None,
+) -> dict:
+    """Find the best market for buying or selling."""
+
+    return get_best_market_from_agmarknet(
+        state=state,
+        district=district,
+        commodity=commodity,
+        quantity=quantity,
+        mode=mode,
+        transport_costs=transport_costs,
     )
 
 
 if __name__ == "__main__":
     mcp.run()
-

@@ -22,6 +22,9 @@ async def test_mcp_server_exposes_all_tools():
             "net_return",
             "best_buyers",
             "best_farmers",
+            "current_price",
+            "buy_decision",
+            "sell_decision",
         }
 
         assert tool_names == expected_tools
@@ -48,3 +51,27 @@ async def test_mcp_buy_recommendation_tool():
         assert "BUY" in text
         assert "2100" in text
         assert "2000" in text
+
+@pytest.mark.anyio
+async def test_forecast_price_tool_schema():
+    async with Client(mcp) as client:
+        tools_result = await client.list_tools()
+
+        forecast_tool = next(
+            tool
+            for tool in tools_result.tools
+            if tool.name == "forecast_price"
+        )
+
+        properties = forecast_tool.input_schema["properties"]
+
+        expected_fields = {
+            "state",
+            "district",
+            "market",
+            "commodity",
+            "variety",
+            "grade",
+        }
+
+        assert set(properties.keys()) == expected_fields        

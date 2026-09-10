@@ -96,12 +96,23 @@ def get_sell_recommendation(
             f"Waiting is expected to provide a better return."
         )
 
+    elif expected_change_percent < 0:
+        recommendation = "SELL"
+
+        reason = (
+            f"Expected price is lower by "
+            f"{abs(expected_change_percent):.2f}%. "
+            f"Selling now is expected to provide a better return."
+        )
+
     else:
         recommendation = "SELL"
 
         reason = (
-            "The predicted price increase is not large enough "
-            "to justify waiting. Selling now is recommended."
+            f"Expected price increase is only "
+            f"{expected_change_percent:.2f}%, which is below "
+            f"the {min_change_percent:.2f}% threshold. "
+            f"Selling now is recommended."
         )
 
     # -----------------------------

@@ -1,39 +1,46 @@
-from typing import Any, Dict, List
+from typing import Any, Dict
 
-from src.services.matching_service import (
-    find_best_buyers,
-    find_best_farmers,
-)
+from src.services.buyer_service import get_best_buyers
+from src.services.farmer_service import get_best_farmers
 
 
 def best_buyers_tool(
-    farmer_lot: Dict[str, Any],
-    buyers: List[Dict[str, Any]],
+    commodity: str,
+    quantity: float,
+    grade: str,
+    location: str,
+    variety: str = None,
+    expected_price: float = None,
 ) -> Dict[str, Any]:
-    """
-    Find and rank the best buyers for a farmer's lot.
-    """
-    if not buyers:
-        raise ValueError("buyers cannot be empty.")
-
-    return find_best_buyers(
-        farmer_lot=farmer_lot,
-        buyers=buyers,
+    """Find and rank the best buyers for a farmer's produce
+    using live buyer requirements from Supabase."""
+    return get_best_buyers(
+        commodity=commodity,
+        quantity=quantity,
+        grade=grade,
+        location=location,
+        variety=variety,
+        expected_price=expected_price,
     )
 
 
 def best_farmers_tool(
-    buyer_requirement: Dict[str, Any],
-    farmers: List[Dict[str, Any]],
+    commodity: str,
+    required_quantity: float,
+    grade: str,
+    location: str,
+    variety: str = None,
+    offered_price: float = None,
+    limit: int = 100,
 ) -> Dict[str, Any]:
-    """
-    Find and rank the best farmer lots for a buyer requirement.
-    """
-    if not farmers:
-        raise ValueError("farmers cannot be empty.")
-
-    return find_best_farmers(
-        buyer_requirement=buyer_requirement,
-        farmers=farmers,
+    """Find and rank the best farmer lots for a buyer requirement
+    using active farmer listings from Supabase."""
+    return get_best_farmers(
+        commodity=commodity,
+        required_quantity=required_quantity,
+        grade=grade,
+        location=location,
+        variety=variety,
+        offered_price=offered_price,
+        limit=limit,
     )
-

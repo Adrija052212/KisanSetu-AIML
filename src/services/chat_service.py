@@ -4,17 +4,16 @@ from src.llm.claude_agent import ClaudeAgent
 
 
 class ChatService:
-    """
-    Manage ClaudeAgent instances for separate conversations.
-    """
+    """Manage ClaudeAgent instances for separate conversations."""
 
     def __init__(self):
         self._conversations: Dict[str, ClaudeAgent] = {}
 
-    def get_agent(self, conversation_id: str) -> ClaudeAgent:
-        """
-        Get an existing agent for a conversation or create a new one.
-        """
+    def get_agent(
+        self,
+        conversation_id: str,
+    ) -> ClaudeAgent:
+        """Get or create an agent for a conversation."""
 
         if not conversation_id:
             raise ValueError(
@@ -31,10 +30,9 @@ class ChatService:
         conversation_id: str,
         message: str,
         language: str = "English",
+        location: str | None = None,
     ) -> str:
-        """
-        Send a message within a conversation.
-        """
+        """Send a message within a conversation."""
 
         if not message or not message.strip():
             raise ValueError(
@@ -46,15 +44,14 @@ class ChatService:
         return await agent.ask_with_mcp(
             message.strip(),
             language=language,
+            location=location,
         )
 
     def reset_conversation(
         self,
         conversation_id: str,
     ) -> None:
-        """
-        Reset an existing conversation.
-        """
+        """Reset an existing conversation."""
 
         if conversation_id in self._conversations:
             self._conversations[
@@ -65,11 +62,9 @@ class ChatService:
         self,
         conversation_id: str,
     ) -> None:
-        """
-        Remove a conversation from memory.
-        """
+        """Remove a conversation from memory."""
 
         self._conversations.pop(
             conversation_id,
-            None
+            None,
         )

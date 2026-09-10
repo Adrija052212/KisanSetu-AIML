@@ -1,7 +1,10 @@
 import pytest
+from unittest.mock import patch
 
 from mcp import Client
+
 from src.mcp.server import mcp
+from src.mcp.tools.prices import forecast_price_tool
 
 
 @pytest.mark.anyio
@@ -32,24 +35,10 @@ async def test_mcp_best_market_tool():
         result = await client.call_tool(
             "best_market",
             {
-                "markets": [
-                    {
-                        "market": "Market A",
-                        "current_price": 2500,
-                        "transport_cost": 100,
-                    },
-                    {
-                        "market": "Market B",
-                        "current_price": 2650,
-                        "transport_cost": 80,
-                    },
-                    {
-                        "market": "Market C",
-                        "current_price": 2700,
-                        "transport_cost": 250,
-                    },
-                ],
-                "quantity": 10,
+                "state": "West Bengal",
+                "district": "Nadia",
+                "commodity": "Tomato",
+                "quantity": 50,
                 "mode": "sell",
             },
         )
@@ -59,7 +48,11 @@ async def test_mcp_best_market_tool():
 
         text = result.content[0].text
 
-        assert "Market B" in text
+        assert "best_market" in text
+        assert "Ranaghat APMC" in text
+        assert "current_price" in text
+        assert "current_effective_price" in text
+        assert "rank" in text
 
 
 @pytest.mark.anyio
@@ -125,41 +118,12 @@ async def test_mcp_best_buyers_tool():
         result = await client.call_tool(
             "best_buyers",
             {
-                "farmer_lot": {
-                    "farmer_id": "F001",
-                    "lot_id": "L001",
-                    "commodity": "Tomato",
-                    "quantity": 50,
-                    "quantity_unit": "Quintal",
-                    "grade": "A",
-                    "location": "Nadia",
-                    "expected_price": 2200,
-                    "available_date": "2026-09-06",
-                },
-                "buyers": [
-                    {
-                        "buyer_id": "B001",
-                        "requirement_id": "R001",
-                        "commodity": "Tomato",
-                        "required_quantity": 40,
-                        "quantity_unit": "Quintal",
-                        "grade": "A",
-                        "location": "Nadia",
-                        "offered_price": 2300,
-                        "required_by_date": "2026-09-08",
-                    },
-                    {
-                        "buyer_id": "B002",
-                        "requirement_id": "R002",
-                        "commodity": "Tomato",
-                        "required_quantity": 60,
-                        "quantity_unit": "Quintal",
-                        "grade": "Any",
-                        "location": "Kolkata",
-                        "offered_price": 2400,
-                        "required_by_date": "2026-09-08",
-                    },
-                ],
+                "commodity": "tomato",
+                "quantity": 50,
+                "grade": "A",
+                "location": "Nadia",
+                "variety": "hybrid",
+                "expected_price": 2300,
             },
         )
 
@@ -168,7 +132,8 @@ async def test_mcp_best_buyers_tool():
 
         text = result.content[0].text
 
-        assert "B001" in text
+        assert "best_buyer" in text
+        assert "matches" in text
         assert "match_score" in text
 
 
@@ -178,48 +143,67 @@ async def test_mcp_best_farmers_tool():
         result = await client.call_tool(
             "best_farmers",
             {
-                "buyer_requirement": {
-                    "buyer_id": "B001",
-                    "requirement_id": "R001",
-                    "commodity": "Tomato",
-                    "required_quantity": 50,
-                    "quantity_unit": "Quintal",
-                    "grade": "A",
-                    "location": "Nadia",
-                    "offered_price": 2300,
-                    "required_by_date": "2026-09-08",
-                },
-                "farmers": [
-                    {
-                        "farmer_id": "F001",
-                        "lot_id": "L001",
-                        "commodity": "Tomato",
-                        "quantity": 50,
-                        "quantity_unit": "Quintal",
-                        "grade": "A",
-                        "location": "Nadia",
-                        "expected_price": 2200,
-                        "available_date": "2026-09-06",
-                    },
-                    {
-                        "farmer_id": "F002",
-                        "lot_id": "L002",
-                        "commodity": "Tomato",
-                        "quantity": 30,
-                        "quantity_unit": "Quintal",
-                        "grade": "A",
-                        "location": "Kolkata",
-                        "expected_price": 2200,
-                        "available_date": "2026-09-06",
-                    },
-                ],
+                "commodity": "potato",
+                "required_quantity": 30,
+                "grade": "A",
+                "location": "kolkata",
+                "offered_price": 3600,
             },
         )
 
         assert result.is_error is False
-        assert result.content
 
         text = result.content[0].text
 
-        assert "F001" in text
-        assert "match_score" in text
+        assert "100" in text
+        assert "Excellent" in text
+        assert "potato" in text.lower()
+
+
+def test_forecast_price_tool():
+    result = forecast_price_tool(
+        state="West Bengal",
+        district="Nadia",
+        market="Ranaghat APMC",
+        commodity="Tomato",
+        variety="Other",
+        grade="FAQ",
+    )
+
+    assert result
+    assert "predicted_price" in result
+    assert "forecast_date" in result
+    assert result["predicted_price"] > 0
+
+    forecast_date = str(result["forecast_date"])
+
+    assert len(forecast_date) == 10
+    assert forecast_date[4] == "-"
+    assert forecast_date[7] == "-"
+
+
+@pytest.mark.anyio
+async def test_mcp_server_exposes_all_tools():
+    async with Client(mcp) as client:
+        result = await client.list_tools()
+
+        tool_names = {
+            tool.name
+            for tool in result.tools
+        }
+
+        expected_tools = {
+            "forecast_price",
+            "buy_recommendation",
+            "sell_recommendation",
+            "best_time",
+            "net_return",
+            "best_buyers",
+            "best_farmers",
+            "current_price",
+            "buy_decision",
+            "sell_decision",
+            "best_market",
+        }
+
+        assert tool_names == expected_tools    
